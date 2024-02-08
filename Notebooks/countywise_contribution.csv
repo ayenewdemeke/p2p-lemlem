@@ -1,0 +1,3090 @@
+,State_Name,County_Name,"Mining, quarrying, and oil and gas extraction"
+0,Texas,Harris,462454056.0
+1,Oklahoma,Oklahoma,218238355.0
+2,Alaska,North Slope,208028429.0
+3,California,Kern,204309819.0
+4,Texas,Midland,157112911.0
+5,Oklahoma,Tulsa,103811159.0
+6,Texas,Karnes,90975117.0
+7,Colorado,Weld,85411100.0
+8,Wyoming,Campbell,78464055.0
+9,Texas,Tarrant,76830400.0
+10,Oklahoma,Washington,74655229.0
+11,Texas,Ector,71488020.0
+12,Texas,Martin,69621525.0
+13,Texas,Reeves,69458443.0
+14,Texas,Upton,67083294.0
+15,Texas,Webb,64340715.0
+16,Texas,La Salle,63694707.0
+17,Texas,Andrews,62786577.0
+18,Texas,DeWitt,55372926.0
+19,Texas,Dallas,53540618.0
+20,New Mexico,Eddy,52671334.0
+21,New Mexico,Lea,52474944.0
+22,Texas,Gaines,50439318.0
+23,Texas,Yoakum,49408569.0
+24,Texas,Loving,49076166.0
+25,Texas,Pecos,49021754.0
+26,Texas,Panola,45377071.0
+27,Texas,Reagan,44757300.0
+28,California,Los Angeles,44326842.0
+29,Texas,Howard,43427365.0
+30,New Mexico,San Juan,43409817.0
+31,Texas,Ward,43314759.0
+32,Texas,Dimmit,43214205.0
+33,Louisiana,Lafayette,43213639.0
+34,Colorado,Denver,40561155.0
+35,Pennsylvania,Greene,39685782.0
+36,Texas,Glasscock,38638325.0
+37,Texas,Gonzales,37186754.0
+38,Texas,McMullen,36503318.0
+39,Texas,Johnson,35931693.0
+40,Texas,Hockley,35544106.0
+41,Wyoming,Sweetwater,35325233.0
+42,Louisiana,De Soto,35052609.0
+43,Texas,Wise,34467924.0
+44,Texas,Scurry,33917340.0
+45,North Dakota,Williams,33514698.0
+46,Texas,Zapata,33228146.0
+47,Wyoming,Sublette,33079827.0
+48,Louisiana,Terrebonne,32964511.0
+49,Louisiana,Plaquemines,32369294.0
+50,Nevada,Eureka,32276304.0
+51,Texas,Hidalgo,31352074.0
+52,Texas,Freestone,31134041.0
+53,Colorado,Garfield,30378478.0
+54,Texas,Robertson,28952869.0
+55,Texas,Roberts,27968434.0
+56,Arizona,Greenlee,27835003.0
+57,Texas,Crockett,26111590.0
+58,Texas,Denton,26049384.0
+59,North Dakota,McKenzie,26000667.0
+60,Pennsylvania,Washington,25599367.0
+61,Arizona,Maricopa,24865145.0
+62,Texas,Crane,24465295.0
+63,Texas,Atascosa,24313840.0
+64,Minnesota,St. Louis,23890780.0
+65,Colorado,La Plata,23453775.0
+66,Texas,Rusk,23210696.0
+67,Texas,Gregg,23208050.0
+68,Utah,Salt Lake,22922060.0
+69,Texas,Harrison,21856080.0
+70,Texas,Fort Bend,21572297.0
+71,Texas,Montgomery,20651779.0
+72,Texas,Wheeler,20573221.0
+73,Colorado,Montezuma,20466703.0
+74,Pennsylvania,Susquehanna,20346051.0
+75,Texas,Nueces,20162269.0
+76,West Virginia,Boone,19659072.0
+77,Alabama,Tuscaloosa,18914266.0
+78,Texas,Winkler,18600850.0
+79,Texas,Hemphill,18530283.0
+80,Texas,Irion,18248668.0
+81,Louisiana,Caddo,18100037.0
+82,West Virginia,Marshall,18061192.0
+83,Arizona,Pima,17789917.0
+84,Louisiana,Bossier,17762827.0
+85,Alaska,Anchorage,17645535.0
+86,Louisiana,Iberia,17619082.0
+87,Ohio,Belmont,17587356.0
+88,Utah,Uintah,17346854.0
+89,Texas,Live Oak,17183494.0
+90,Kentucky,Pike,16660342.0
+91,Louisiana,Orleans,16252067.0
+92,Louisiana,Vermilion,16167994.0
+93,North Dakota,Mountrail,15408131.0
+94,Texas,Starr,15390778.0
+95,Louisiana,Lafourche,14704016.0
+96,Pennsylvania,Bradford,14483098.0
+97,Texas,Ochiltree,13886894.0
+98,New Mexico,Rio Arriba,13809031.0
+99,California,Ventura,13681172.0
+100,Texas,Brazoria,13608404.0
+101,Oklahoma,Kay,13554689.0
+102,Oklahoma,Garfield,13536161.0
+103,Texas,Bexar,13464293.0
+104,Texas,Lavaca,13320288.0
+105,West Virginia,Kanawha,13237605.0
+106,Wyoming,Natrona,13093169.0
+107,Texas,Travis,12959162.0
+108,Louisiana,Jefferson,12756124.0
+109,Alabama,Jefferson,12679288.0
+110,Nevada,Elko,12676109.0
+111,Texas,Smith,12615409.0
+112,Texas,Brazos,12473414.0
+113,Texas,Jim Wells,12423844.0
+114,Nevada,Lander,12364133.0
+115,West Virginia,Logan,12340425.0
+116,Texas,Limestone,12229935.0
+117,Texas,Parker,12205481.0
+118,Michigan,Marquette,12078105.0
+119,Virginia,Buchanan,12031455.0
+120,North Dakota,Dunn,11990877.0
+121,Colorado,Rio Blanco,11720151.0
+122,Nevada,Humboldt,11586576.0
+123,Texas,Burleson,11508380.0
+124,Texas,Leon,11432728.0
+125,Wyoming,Converse,11427057.0
+126,Texas,Victoria,11346558.0
+127,Texas,Nacogdoches,11256689.0
+128,West Virginia,Mingo,11203302.0
+129,Arizona,Pinal,11064957.0
+130,Texas,Wood,11018213.0
+131,West Virginia,Marion,10742985.0
+132,Texas,Lipscomb,10408588.0
+133,Texas,Culberson,10390811.0
+134,California,Santa Barbara,10121470.0
+135,Louisiana,Bienville,10115861.0
+136,Texas,Refugio,10087199.0
+137,Ohio,Monroe,9886728.0
+138,Texas,Sutton,9884950.0
+139,Florida,Polk,9802313.0
+140,Arizona,Yavapai,9792005.0
+141,Texas,Wharton,9738872.0
+142,Louisiana,Cameron,9548797.0
+143,Louisiana,Red River,9504247.0
+144,Kentucky,Perry,9498226.0
+145,Alaska,Fairbanks North Star,9460963.0
+146,West Virginia,Raleigh,9369156.0
+147,Pennsylvania,Lycoming,9287997.0
+148,North Dakota,Stark,9284386.0
+149,Pennsylvania,Indiana,9204870.0
+150,Pennsylvania,Allegheny,9182954.0
+151,Texas,Duval,9044158.0
+152,West Virginia,Doddridge,8968062.0
+153,Texas,Brooks,8959018.0
+154,Texas,Liberty,8886075.0
+155,Oklahoma,Beckham,8840191.0
+156,Arizona,Gila,8686537.0
+157,Oklahoma,Stephens,8641396.0
+158,Utah,Carbon,8573986.0
+159,Colorado,Mesa,8552987.0
+160,Texas,Shelby,8502550.0
+161,Ohio,Harrison,8489652.0
+162,Texas,Frio,8461657.0
+163,Alaska,Juneau,8418498.0
+164,Texas,Terry,8372954.0
+165,Texas,Montague,8265752.0
+166,California,Monterey,8260396.0
+167,West Virginia,Harrison,8216972.0
+168,Oklahoma,Carter,8178985.0
+169,Alaska,Northwest Arctic,8139200.0
+170,Texas,Kent,8136959.0
+171,New Mexico,Grant,8123820.0
+172,Oklahoma,Canadian,8082005.0
+173,Texas,Jefferson,8055150.0
+174,Texas,Dawson,8001025.0
+175,Utah,Duchesne,7970114.0
+176,Texas,San Augustine,7920702.0
+177,Wyoming,Fremont,7903768.0
+178,California,Fresno,7895954.0
+179,Texas,Hood,7833005.0
+180,Texas,Hutchinson,7624911.0
+181,Montana,Stillwater,7592025.0
+182,Texas,Fayette,7562274.0
+183,Louisiana,Jefferson Davis,7524756.0
+184,California,Contra Costa,7510031.0
+185,Texas,Cooke,7435927.0
+186,Texas,Borden,7342165.0
+187,Kentucky,Harlan,7303631.0
+188,Oklahoma,Woodward,7248865.0
+189,Montana,Rosebud,7181177.0
+190,Alaska,Kenai Peninsula,7143664.0
+191,Nevada,Nye,7023450.0
+192,Texas,Terrell,6984905.0
+193,Illinois,Saline,6965993.0
+194,Texas,Kenedy,6838271.0
+195,Texas,Zavala,6821764.0
+196,Texas,Jack,6817338.0
+197,Georgia,Wilkinson,6783629.0
+198,West Virginia,Wyoming,6763942.0
+199,Texas,Chambers,6744339.0
+200,West Virginia,Monongalia,6731432.0
+201,Kentucky,Union,6706564.0
+202,Texas,Matagorda,6663257.0
+203,Indiana,Gibson,6567192.0
+204,Louisiana,Calcasieu,6548425.0
+205,Kentucky,Hopkins,6456459.0
+206,Louisiana,St. Mary,6442627.0
+207,Montana,Richland,6438669.0
+208,Colorado,Arapahoe,6394217.0
+209,Colorado,Gunnison,6335549.0
+210,Texas,Cochran,6227911.0
+211,Louisiana,Pointe Coupee,6194969.0
+212,West Virginia,Wetzel,6186810.0
+213,Texas,Lee,6170428.0
+214,Texas,Moore,6157326.0
+215,Alaska,Southeast Fairbanks,6142453.0
+216,Texas,Stephens,6100319.0
+217,West Virginia,McDowell,6093321.0
+218,Pennsylvania,Armstrong,6084936.0
+219,Texas,Upshur,6058506.0
+220,Texas,Mitchell,6055435.0
+221,Ohio,Carroll,6014254.0
+222,Texas,Garza,5959198.0
+223,Texas,Wichita,5958779.0
+224,Texas,Gray,5893161.0
+225,Colorado,Las Animas,5830038.0
+226,Nevada,White Pine,5784908.0
+227,Oklahoma,Garvin,5736055.0
+228,Wyoming,Uinta,5728435.0
+229,Texas,Galveston,5627559.0
+230,California,San Joaquin,5624136.0
+231,Louisiana,Jackson,5604767.0
+232,California,Orange,5540804.0
+233,New Mexico,McKinley,5514418.0
+234,Colorado,Moffat,5510541.0
+235,Louisiana,Webster,5501922.0
+236,Kentucky,Knott,5500799.0
+237,Texas,Bee,5499745.0
+238,Wyoming,Johnson,5463617.0
+239,Texas,Madison,5441269.0
+240,California,San Bernardino,5431592.0
+241,Arizona,Navajo,5375335.0
+242,Colorado,Routt,5314914.0
+243,Louisiana,Lincoln,5312001.0
+244,Texas,Goliad,5283466.0
+245,Oklahoma,Custer,5282968.0
+246,Texas,Washington,5238322.0
+247,North Dakota,Mercer,5226889.0
+248,Colorado,Clear Creek,5198393.0
+249,Oklahoma,Woods,5169170.0
+250,Texas,Polk,5128402.0
+251,Louisiana,Claiborne,5109700.0
+252,Utah,Sevier,5104282.0
+253,Pennsylvania,Tioga,5056380.0
+254,Texas,Henderson,5014656.0
+255,Texas,San Patricio,4943765.0
+256,Wyoming,Lincoln,4936880.0
+257,Idaho,Shoshone,4910764.0
+258,Louisiana,St. Tammany,4770595.0
+259,Texas,Potter,4770013.0
+260,Kentucky,Letcher,4749938.0
+261,Pennsylvania,Somerset,4735175.0
+262,Mississippi,Jones,4694754.0
+263,Virginia,Dickenson,4684227.0
+264,Pennsylvania,Butler,4667222.0
+265,Pennsylvania,Westmoreland,4663656.0
+266,Pennsylvania,Wyoming,4625353.0
+267,North Carolina,Wake,4539090.0
+268,Missouri,Iron,4537964.0
+269,West Virginia,Ohio,4512249.0
+270,Texas,Collin,4508617.0
+271,Pennsylvania,Fayette,4489102.0
+272,Arkansas,Sebastian,4486010.0
+273,Louisiana,East Baton Rouge,4462017.0
+274,Kentucky,Martin,4460611.0
+275,Mississippi,Rankin,4406969.0
+276,Texas,Hardin,4371914.0
+277,Texas,Kleberg,4343947.0
+278,Arkansas,White,4330365.0
+279,Oklahoma,Kingfisher,4304991.0
+280,Alabama,Mobile,4295420.0
+281,Wyoming,Carbon,4259638.0
+282,West Virginia,Fayette,4253830.0
+283,Texas,Tom Green,4252685.0
+284,Ohio,Guernsey,4243736.0
+285,Kentucky,Muhlenberg,4237950.0
+286,Texas,Jackson,4174374.0
+287,Texas,Anderson,4127168.0
+288,Tennessee,Davidson,4125969.0
+289,Texas,Taylor,4109960.0
+290,Wyoming,Park,4091324.0
+291,Texas,Young,4081968.0
+292,Texas,Palo Pinto,3967470.0
+293,West Virginia,Ritchie,3965834.0
+294,Kentucky,Webster,3963955.0
+295,Florida,Miami-Dade,3951242.0
+296,Illinois,Cook,3922266.0
+297,Texas,Sterling,3921025.0
+298,Texas,Colorado,3910267.0
+299,Minnesota,Lake,3883982.0
+300,Ohio,Jefferson,3878408.0
+301,North Dakota,Ward,3873486.0
+302,Alabama,Walker,3860547.0
+303,Oklahoma,Payne,3855820.0
+304,Pennsylvania,Clearfield,3831094.0
+305,Kentucky,Floyd,3807745.0
+306,Michigan,Wayne,3790519.0
+307,Oklahoma,Latimer,3789585.0
+308,Indiana,Knox,3788428.0
+309,Texas,Hale,3784549.0
+310,Texas,Hansford,3765596.0
+311,Oklahoma,Osage,3765213.0
+312,Texas,Williamson,3755933.0
+313,Missouri,St. Louis County,3735527.0
+314,Wyoming,Big Horn,3710153.0
+315,Alabama,Escambia,3707568.0
+316,Louisiana,Acadia,3681638.0
+317,Montana,Big Horn,3659813.0
+318,Louisiana,La Salle,3655690.0
+319,Arkansas,Van Buren,3637735.0
+320,Texas,Grayson,3605961.0
+321,Ohio,Noble,3589333.0
+322,West Virginia,Wayne,3561107.0
+323,Georgia,Fulton,3546501.0
+324,Ohio,Tuscarawas,3540864.0
+325,Pennsylvania,McKean,3540503.0
+326,Nevada,Pershing,3529138.0
+327,Texas,Grimes,3512719.0
+328,Utah,San Juan,3497057.0
+329,Minnesota,Itasca,3398744.0
+330,Virginia,Tazewell,3382806.0
+331,West Virginia,Tyler,3377915.0
+332,Texas,Lubbock,3368003.0
+333,Colorado,Adams,3366597.0
+334,Texas,Jim Hogg,3348318.0
+335,West Virginia,Nicholas,3343812.0
+336,Texas,King,3289401.0
+337,Illinois,LaSalle,3284755.0
+338,Texas,Nolan,3284500.0
+339,Texas,Cherokee,3272948.0
+340,Utah,Emery,3268760.0
+341,Indiana,Sullivan,3223177.0
+342,Colorado,Teller,3193580.0
+343,California,Riverside,3151350.0
+344,Idaho,Caribou,3113634.0
+345,Texas,Willacy,3097940.0
+346,Oklahoma,Grady,3069916.0
+347,Texas,Orange,3065395.0
+348,Texas,Tyler,3057645.0
+349,Louisiana,Sabine,3042055.0
+350,Texas,Houston,2991480.0
+351,Ohio,Hancock,2985789.0
+352,Texas,Wilson,2984362.0
+353,Pennsylvania,Jefferson,2973489.0
+354,Arkansas,Faulkner,2956500.0
+355,Alabama,Conecuh,2946546.0
+356,Texas,Sherman,2924949.0
+357,West Virginia,Lewis,2920404.0
+358,Texas,Stonewall,2912037.0
+359,Arkansas,Pulaski,2890293.0
+360,Texas,Maverick,2869550.0
+361,Kentucky,Leslie,2826013.0
+362,Mississippi,Choctaw,2814900.0
+363,Texas,Van Zandt,2791873.0
+364,Ohio,Stark,2789592.0
+365,Arkansas,Conway,2789042.0
+366,Texas,Carson,2739212.0
+367,Montana,Fallon,2738197.0
+368,Texas,Eastland,2693437.0
+369,North Dakota,McLean,2670241.0
+370,West Virginia,Webster,2659749.0
+371,Oklahoma,Pittsburg,2650659.0
+372,Texas,Shackelford,2647666.0
+373,New Mexico,Union,2628325.0
+374,Montana,Sweet Grass,2615838.0
+375,California,Solano,2579653.0
+376,Alabama,Talladega,2556830.0
+377,New Jersey,Somerset,2552310.0
+378,Texas,Jasper,2541526.0
+379,California,San Diego,2539089.0
+380,Texas,Caldwell,2503068.0
+381,Texas,Schleicher,2502835.0
+382,Illinois,White,2491019.0
+383,Texas,Archer,2481630.0
+384,North Carolina,Mitchell,2478836.0
+385,Nevada,Washoe,2474801.0
+386,New Mexico,Chaves,2424929.0
+387,Louisiana,Assumption,2424387.0
+388,Colorado,Jefferson,2420028.0
+389,Vermont,Rutland,2402932.0
+390,Idaho,Custer,2398612.0
+391,Ohio,Wayne,2398242.0
+392,Oklahoma,Le Flore,2386126.0
+393,Washington,King,2357362.0
+394,Kentucky,Bell,2356468.0
+395,Colorado,Delta,2347169.0
+396,Georgia,Twiggs,2336237.0
+397,Oklahoma,Creek,2316674.0
+398,California,Sacramento,2306996.0
+399,Indiana,Pike,2299827.0
+400,Texas,Comal,2295791.0
+401,Illinois,Macoupin,2291067.0
+402,Washington,Lewis,2274336.0
+403,Arkansas,Cleburne,2266756.0
+404,Texas,Waller,2257352.0
+405,West Virginia,Barbour,2246907.0
+406,Montana,Silver Bow,2240323.0
+407,West Virginia,Upshur,2223579.0
+408,Ohio,Muskingum,2214741.0
+409,Alabama,Shelby,2200464.0
+410,Missouri,Reynolds,2195490.0
+411,Arizona,Graham,2189638.0
+412,Illinois,Williamson,2182388.0
+413,West Virginia,Taylor,2173200.0
+414,Texas,Angelina,2148305.0
+415,Colorado,Yuma,2144812.0
+416,Louisiana,Evangeline,2139083.0
+417,Kentucky,Ohio,2135566.0
+418,Colorado,Larimer,2130605.0
+419,Illinois,Franklin,2129289.0
+420,Louisiana,Beauregard,2119685.0
+421,Texas,Guadalupe,2115367.0
+422,Kansas,Ellis,2102744.0
+423,Florida,Hillsborough,2096843.0
+424,Kansas,Grant,2082025.0
+425,Minnesota,Hennepin,2080498.0
+426,Ohio,Portage,2070392.0
+427,Georgia,Jefferson,2054609.0
+428,Colorado,Douglas,2049799.0
+429,Ohio,Cuyahoga,2048812.0
+430,West Virginia,Clay,2038997.0
+431,Georgia,Washington,2037067.0
+432,Texas,Val Verde,2003936.0
+433,California,Alameda,1996017.0
+434,Idaho,Kootenai,1980892.0
+435,Texas,Austin,1956669.0
+436,Texas,Titus,1947138.0
+437,Arkansas,Columbia,1937616.0
+438,North Dakota,Bowman,1935127.0
+439,Texas,Hardeman,1927155.0
+440,Mississippi,Jasper,1924238.0
+441,Pennsylvania,Lancaster,1915568.0
+442,Kansas,Seward,1912476.0
+443,New York,Rockland,1910341.0
+444,Oklahoma,Seminole,1910182.0
+445,Nevada,Clark,1904412.0
+446,Florida,Hardee,1890688.0
+447,Wyoming,Laramie,1879004.0
+448,Kansas,Finney,1878955.0
+449,Montana,Musselshell,1864737.0
+450,Oklahoma,Grant,1863715.0
+451,Texas,Aransas,1849578.0
+452,California,Butte,1842675.0
+453,Oklahoma,Major,1842063.0
+454,Kansas,Barton,1841862.0
+455,Tennessee,Montgomery,1840076.0
+456,Texas,Edwards,1837871.0
+457,Pennsylvania,York,1835996.0
+458,Arizona,Mohave,1834927.0
+459,Ohio,Mahoning,1823571.0
+460,Colorado,Boulder,1821028.0
+461,Kansas,Sedgwick,1818579.0
+462,Virginia,Russell,1796184.0
+463,Texas,Newton,1794219.0
+464,Texas,Hill,1788576.0
+465,Tennessee,Claiborne,1781954.0
+466,Oklahoma,Cleveland,1779184.0
+467,Pennsylvania,Lehigh,1778379.0
+468,Oklahoma,Texas,1773417.0
+469,Kentucky,Livingston,1770946.0
+470,Oklahoma,McClain,1764418.0
+471,Kansas,Stevens,1763310.0
+472,Illinois,Randolph,1758381.0
+473,Oklahoma,Pontotoc,1753256.0
+474,Colorado,Cheyenne,1744197.0
+475,Texas,Calhoun,1740342.0
+476,Mississippi,Wayne,1726431.0
+477,Ohio,Perry,1724529.0
+478,Illinois,Sangamon,1724467.0
+479,Wyoming,Sheridan,1721866.0
+480,West Virginia,Lincoln,1714708.0
+481,Indiana,Daviess,1713687.0
+482,Texas,Fisher,1704204.0
+483,Texas,Throckmorton,1700427.0
+484,Connecticut,New Haven,1685333.0
+485,Pennsylvania,Schuylkill,1653076.0
+486,Texas,Milam,1645492.0
+487,Wisconsin,Waukesha,1641329.0
+488,Tennessee,Jefferson,1639059.0
+489,Texas,Jones,1635720.0
+490,Montana,Yellowstone,1634363.0
+491,Illinois,Will,1621286.0
+492,Ohio,Columbiana,1617696.0
+493,Colorado,Dolores,1611934.0
+494,Pennsylvania,Sullivan,1592792.0
+495,North Dakota,Divide,1586942.0
+496,Florida,Bradford,1576788.0
+497,Indiana,Warrick,1569826.0
+498,West Virginia,Tucker,1565738.0
+499,California,Imperial,1564014.0
+500,Maryland,Garrett,1563608.0
+501,Hawaii,Honolulu,1536762.0
+502,Illinois,Gallatin,1533279.0
+503,New Mexico,Harding,1520465.0
+504,Florida,Gadsden,1517242.0
+505,Louisiana,Iberville,1512439.0
+506,Texas,Crosby,1509467.0
+507,Texas,Dickens,1499795.0
+508,Missouri,Ste. Genevieve,1494131.0
+509,Texas,Coke,1470407.0
+510,Georgia,Thomas,1469454.0
+511,New Mexico,Taos,1462022.0
+512,Mississippi,Adams,1461142.0
+513,Ohio,Washington,1458650.0
+514,Virginia,Loudoun,1436799.0
+515,Wyoming,Hot Springs,1432930.0
+516,Kansas,Haskell,1421986.0
+517,Oklahoma,Pottawatomie,1419597.0
+518,Kentucky,Henderson,1416066.0
+519,Michigan,Presque Isle,1380413.0
+520,Pennsylvania,Cambria,1368155.0
+521,Texas,McCulloch,1354013.0
+522,California,Sonoma,1353924.0
+523,Massachusetts,Middlesex,1346378.0
+524,Tennessee,Knox,1345568.0
+525,Wyoming,Crook,1343876.0
+526,Mississippi,Hinds,1341066.0
+527,Illinois,Montgomery,1334871.0
+528,Illinois,Wabash,1331456.0
+529,Pennsylvania,Mercer,1327476.0
+530,Florida,Lee,1322071.0
+531,Pennsylvania,Crawford,1319126.0
+532,Ohio,Lake,1304383.0
+533,Montana,Jefferson,1303173.0
+534,Texas,Wilbarger,1289497.0
+535,New York,Tompkins,1270613.0
+536,Pennsylvania,Bucks,1266004.0
+537,Louisiana,Rapides,1264845.0
+538,New York,Livingston,1261762.0
+539,North Dakota,Oliver,1257597.0
+540,Kansas,Johnson,1246758.0
+541,Michigan,Monroe,1244185.0
+542,Georgia,Pickens,1236241.0
+543,Oregon,Washington,1225990.0
+544,Arkansas,Logan,1225180.0
+545,Illinois,Jackson,1224888.0
+546,Illinois,Perry,1213255.0
+547,Maryland,Montgomery,1207642.0
+548,Pennsylvania,Berks,1207256.0
+549,New Jersey,Passaic,1207174.0
+550,North Carolina,Mecklenburg,1204343.0
+551,New York,Suffolk,1201185.0
+552,Pennsylvania,Clarion,1198429.0
+553,Texas,Franklin,1195381.0
+554,Utah,Summit,1190689.0
+555,Pennsylvania,Elk,1188594.0
+556,Georgia,Decatur,1185942.0
+557,California,Yolo,1185319.0
+558,Arkansas,Franklin,1180073.0
+559,Mississippi,Yazoo,1174601.0
+560,Kentucky,Pendleton,1168477.0
+561,Minnesota,Dakota,1165372.0
+562,Utah,Grand,1160018.0
+563,Texas,Runnels,1155988.0
+564,New York,Chemung,1144131.0
+565,Texas,Hopkins,1143941.0
+566,Pennsylvania,Luzerne,1143470.0
+567,Pennsylvania,Clinton,1142874.0
+568,North Carolina,Rowan,1130784.0
+569,Oklahoma,Lincoln,1128690.0
+570,Indiana,Hamilton,1128021.0
+571,Texas,Clay,1125436.0
+572,Kansas,Barber,1119717.0
+573,Michigan,Otsego,1119196.0
+574,Louisiana,St. Martin,1117933.0
+575,Ohio,Trumbull,1117358.0
+576,New York,Erie,1109571.0
+577,Florida,Lake,1106197.0
+578,Georgia,DeKalb,1105072.0
+579,California,Santa Clara,1101310.0
+580,Louisiana,St. Landry,1100040.0
+581,Tennessee,Smith,1095293.0
+582,Alabama,Fayette,1092679.0
+583,Ohio,Franklin,1087552.0
+584,Washington,Pend Oreille,1081820.0
+585,North Carolina,Guilford,1080286.0
+586,Louisiana,Vernon,1078957.0
+587,California,San Luis Obispo,1078732.0
+588,Wisconsin,Fond du Lac,1064892.0
+589,Pennsylvania,Beaver,1064113.0
+590,Massachusetts,Worcester,1061091.0
+591,Michigan,Kalkaska,1059461.0
+592,Montana,Roosevelt,1052782.0
+593,Oklahoma,Johnston,1044711.0
+594,Michigan,Oakland,1043109.0
+595,Oregon,Marion,1042240.0
+596,California,Sutter,1041134.0
+597,North Dakota,Bottineau,1040711.0
+598,Kentucky,Fayette,1040670.0
+599,Nevada,Lyon,1035006.0
+600,Wisconsin,Outagamie,1032368.0
+601,Louisiana,Franklin,1031879.0
+602,Texas,San Jacinto,1028815.0
+603,New Mexico,Colfax,1028583.0
+604,Kansas,Kearny,1027479.0
+605,Texas,Cass,1027005.0
+606,Louisiana,Livingston,1022405.0
+607,West Virginia,Greenbrier,1022156.0
+608,Texas,Navarro,1019079.0
+609,Utah,Washington,1014928.0
+610,Oklahoma,Alfalfa,1011371.0
+611,Wisconsin,Dane,1009991.0
+612,Texas,Bastrop,1004136.0
+613,Washington,Snohomish,1000817.0
+614,South Dakota,Lawrence,997248.0
+615,Kansas,Russell,997056.0
+616,Kentucky,Magoffin,994772.0
+617,Indiana,Vigo,985234.0
+618,West Virginia,Preston,980506.0
+619,Washington,Pierce,980058.0
+620,Illinois,Washington,978052.0
+621,Wisconsin,Monroe,976252.0
+622,Florida,Santa Rosa,976005.0
+623,South Carolina,Spartanburg,975919.0
+624,Illinois,Lawrence,973508.0
+625,Illinois,Lake,972404.0
+626,New York,Dutchess,966661.0
+627,Oregon,Lane,961592.0
+628,North Dakota,Billings,950090.0
+629,Arkansas,Union,949666.0
+630,Colorado,Huerfano,941155.0
+631,Michigan,Schoolcraft,940406.0
+632,Tennessee,Campbell,937539.0
+633,West Virginia,Brooke,936658.0
+634,Virginia,Lee,936391.0
+635,Illinois,DuPage,934240.0
+636,Oklahoma,Pawnee,933615.0
+637,Texas,Haskell,931759.0
+638,Georgia,Sumter,930156.0
+639,Minnesota,Le Sueur,926332.0
+640,Tennessee,Weakley,924703.0
+641,Pennsylvania,Fulton,923238.0
+642,Mississippi,Madison,914171.0
+643,California,Shasta,913090.0
+644,Pennsylvania,Warren,912312.0
+645,North Dakota,Burke,911668.0
+646,Colorado,Morgan,908594.0
+647,Maryland,Allegany,905728.0
+648,Texas,Lamb,905073.0
+649,Ohio,Coshocton,903733.0
+650,Florida,Hernando,903146.0
+651,New Hampshire,Merrimack,899609.0
+652,Utah,Millard,898367.0
+653,Kansas,Morton,896642.0
+654,Pennsylvania,Montgomery,894694.0
+655,Michigan,Grand Traverse,893865.0
+656,Texas,Marion,891295.0
+657,Pennsylvania,Blair,890673.0
+658,Ohio,Meigs,885329.0
+659,Texas,Ellis,885216.0
+660,Kansas,Ness,883312.0
+661,Louisiana,Allen,881874.0
+662,Georgia,Gwinnett,879508.0
+663,Alaska,Yukon-Koyukuk,877455.0
+664,Indiana,Lake,875078.0
+665,Oklahoma,Blaine,874880.0
+666,Pennsylvania,Centre,874125.0
+667,Wisconsin,Jackson,872691.0
+668,Iowa,Winneshiek,871449.0
+669,Louisiana,St. John the Baptist,870730.0
+670,Wisconsin,Rock,868583.0
+671,Oklahoma,Haskell,865960.0
+672,Texas,Oldham,865008.0
+673,Arkansas,Crawford,864930.0
+674,Illinois,Adams,863456.0
+675,Ohio,Summit,862473.0
+676,Louisiana,Concordia,860939.0
+677,Michigan,Isabella,849633.0
+678,Tennessee,Cumberland,848813.0
+679,Missouri,St. Louis city,846815.0
+680,New Jersey,Cumberland,844154.0
+681,Texas,Concho,843978.0
+682,Montana,Flathead,839209.0
+683,Illinois,Hamilton,838839.0
+684,Nebraska,Cass,833549.0
+685,Texas,Medina,832592.0
+686,New York,Chautauqua,831558.0
+687,Oklahoma,Caddo,831080.0
+688,Washington,Clark,830316.0
+689,California,Colusa,829846.0
+690,Mississippi,Lincoln,829718.0
+691,New Mexico,Sandoval,828618.0
+692,Michigan,Berrien,824347.0
+693,Kansas,Harper,824330.0
+694,Colorado,Lake,819748.0
+695,South Carolina,Richland,819088.0
+696,Washington,Cowlitz,818313.0
+697,Ohio,Ottawa,816993.0
+698,South Carolina,Lancaster,815467.0
+699,Texas,Bell,813546.0
+700,New York,Albany,807996.0
+701,Kentucky,Jefferson,805620.0
+702,Louisiana,Ouachita,800898.0
+703,Wyoming,Washakie,787023.0
+704,Wyoming,Weston,786912.0
+705,Pennsylvania,Adams,784717.0
+706,Wisconsin,Calumet,783581.0
+707,Texas,Knox,782951.0
+708,Kentucky,Warren,781461.0
+709,Iowa,Polk,780308.0
+710,Kansas,Rooks,778167.0
+711,Maryland,Cecil,776499.0
+712,South Carolina,Lexington,774102.0
+713,South Carolina,Aiken,773733.0
+714,Kansas,Pratt,772372.0
+715,Kansas,Neosho,772036.0
+716,Kentucky,Laurel,769104.0
+717,Kansas,Jefferson,768055.0
+718,North Carolina,Richmond,767620.0
+719,Oklahoma,Mayes,766533.0
+720,Texas,Cottle,766244.0
+721,Wisconsin,Marinette,765753.0
+722,Oklahoma,Murray,765713.0
+723,Nebraska,Douglas,765153.0
+724,Alabama,Barbour,758012.0
+725,Kentucky,Breathitt,755797.0
+726,Texas,Erath,755173.0
+727,Ohio,Hamilton,754663.0
+728,California,Amador,754020.0
+729,Ohio,Butler,751866.0
+730,Indiana,Greene,751360.0
+731,Texas,Hartley,750194.0
+732,Virginia,Sussex,748275.0
+733,Illinois,Vermilion,747156.0
+734,Indiana,Vanderburgh,746224.0
+735,Florida,Broward,745413.0
+736,Idaho,Ada,738770.0
+737,Illinois,Kane,735627.0
+738,New York,Cattaraugus,734391.0
+739,Connecticut,Litchfield,733577.0
+740,New York,Steuben,732955.0
+741,Mississippi,Jefferson Davis,730799.0
+742,Missouri,Jefferson,729704.0
+743,Alabama,Monroe,729114.0
+744,Montana,Powder River,728012.0
+745,Florida,Marion,724780.0
+746,Oklahoma,Rogers,724752.0
+747,West Virginia,Gilmer,721304.0
+748,Ohio,Geauga,719957.0
+749,West Virginia,Randolph,719236.0
+750,Massachusetts,Plymouth,715479.0
+751,Mississippi,Marion,712939.0
+752,New Mexico,Cibola,712425.0
+753,Idaho,Bonner,706783.0
+754,Utah,Beaver,705143.0
+755,South Carolina,Berkeley,702023.0
+756,West Virginia,Roane,700092.0
+757,Ohio,Wyandot,697093.0
+758,Arkansas,Garland,696370.0
+759,Pennsylvania,Northumberland,695864.0
+760,Pennsylvania,Chester,694500.0
+761,Idaho,Nez Perce,693349.0
+762,Texas,Brown,692555.0
+763,New Jersey,Warren,691803.0
+764,Florida,Palm Beach,688165.0
+765,West Virginia,Morgan,686881.0
+766,Texas,Coleman,686736.0
+767,Montana,Gallatin,684325.0
+768,Ohio,Holmes,684203.0
+769,Texas,Somervell,682955.0
+770,Texas,Lynn,682690.0
+771,Minnesota,Stearns,681320.0
+772,Mississippi,Clarke,680420.0
+773,California,Yuba,674320.0
+774,New York,St. Lawrence,672076.0
+775,California,Madera,670892.0
+776,Ohio,Lucas,670317.0
+777,Kentucky,Daviess,666010.0
+778,Alaska,Nome,665649.0
+779,California,Glenn,664667.0
+780,Alaska,Denali,659292.0
+781,Ohio,Ashtabula,656965.0
+782,New Jersey,Ocean,656389.0
+783,Colorado,Archuleta,654987.0
+784,Oklahoma,Washita,654231.0
+785,Oklahoma,Beaver,651827.0
+786,Colorado,San Miguel,650398.0
+787,Mississippi,Jefferson,649196.0
+788,Illinois,Jefferson,645529.0
+789,California,San Mateo,645199.0
+790,Colorado,Washington,644395.0
+791,Indiana,Marion,642408.0
+792,Georgia,Richmond,632730.0
+793,Washington,Okanogan,629049.0
+794,Indiana,Monroe,628820.0
+795,Texas,McLennan,626756.0
+796,Kentucky,Lawrence,624700.0
+797,Missouri,Clay,623892.0
+798,Nevada,Esmeralda,623439.0
+799,California,Tuolumne,623120.0
+800,Kansas,Graham,622341.0
+801,Washington,Spokane,621542.0
+802,Montana,Beaverhead,617087.0
+803,Montana,Dawson,615288.0
+804,Washington,Whatcom,613390.0
+805,Texas,Callahan,613346.0
+806,Ohio,Seneca,612342.0
+807,Oklahoma,Dewey,611043.0
+808,Colorado,Summit,601362.0
+809,Kentucky,Johnson,600866.0
+810,Nevada,Mineral,597752.0
+811,Kansas,Rice,597516.0
+812,Pennsylvania,Lawrence,595849.0
+813,Ohio,Knox,595289.0
+814,Utah,Tooele,594305.0
+815,Georgia,Elbert,589804.0
+816,Kentucky,Logan,587298.0
+817,Colorado,Logan,586198.0
+818,Missouri,Lincoln,586059.0
+819,Arizona,Coconino,585223.0
+820,Colorado,El Paso,582272.0
+821,Wisconsin,Brown,581029.0
+822,Minnesota,Sherburne,579253.0
+823,Idaho,Cassia,579139.0
+824,Georgia,Bartow,579066.0
+825,Illinois,Madison,577897.0
+826,Louisiana,Union,576892.0
+827,Arkansas,Pope,576701.0
+828,Oklahoma,Kiowa,573784.0
+829,Tennessee,Hamilton,572373.0
+830,Alabama,Colbert,570754.0
+831,Kansas,Reno,565668.0
+832,Florida,Clay,565323.0
+833,Indiana,Crawford,564689.0
+834,Wisconsin,Barron,564468.0
+835,New York,Onondaga,557077.0
+836,Maryland,Prince George's,557029.0
+837,New Jersey,Hunterdon,556947.0
+838,Vermont,Washington,556463.0
+839,Louisiana,Avoyelles,555166.0
+840,Oklahoma,Comanche,550850.0
+841,Kentucky,Knox,549967.0
+842,Ohio,Licking,545603.0
+843,Maryland,Baltimore County,544847.0
+844,Michigan,Jackson,544075.0
+845,Missouri,St. Charles,544028.0
+846,North Carolina,Buncombe,544022.0
+847,Mississippi,Lamar,543730.0
+848,Indiana,Lawrence,542903.0
+849,Georgia,Cobb,542530.0
+850,Michigan,Allegan,542341.0
+851,Florida,Duval,540795.0
+852,Arizona,Apache,539108.0
+853,Kansas,Butler,538959.0
+854,Missouri,Cass,538731.0
+855,Minnesota,Washington,538668.0
+856,South Carolina,Anderson,538364.0
+857,New York,Rensselaer,538350.0
+858,Indiana,Randolph,536306.0
+859,Maryland,Anne Arundel,536073.0
+860,Ohio,Erie,534958.0
+861,Georgia,Talbot,534689.0
+862,Kentucky,Boyd,534478.0
+863,Mississippi,Tippah,533287.0
+864,Texas,Uvalde,531238.0
+865,New York,Essex,531120.0
+866,Indiana,Allen,530819.0
+867,Texas,Hays,530186.0
+868,New Jersey,Gloucester,529523.0
+869,Louisiana,Winn,529312.0
+870,Colorado,Montrose,519343.0
+871,Pennsylvania,Venango,513918.0
+872,Missouri,Jasper,513302.0
+873,Minnesota,Scott,512922.0
+874,Pennsylvania,Franklin,511760.0
+875,New Jersey,Morris,510973.0
+876,Pennsylvania,Forest,509927.0
+877,Minnesota,Blue Earth,509382.0
+878,Ohio,Jackson,509311.0
+879,Kansas,Allen,509169.0
+880,Rhode Island,Providence,506509.0
+881,Illinois,Schuyler,503641.0
+882,Idaho,Oneida,500414.0
+883,New York,Warren,499786.0
+884,Georgia,Whitfield,495609.0
+885,Alaska,Matanuska-Susitna,494872.0
+886,Connecticut,Hartford,492372.0
+887,Montana,Lewis and Clark,491277.0
+888,Kansas,Kingman,486398.0
+889,Colorado,Jackson,485341.0
+890,Arizona,Cochise,484592.0
+891,Virginia,Hanover,483965.0
+892,Colorado,Fremont,482696.0
+893,Indiana,Porter,478699.0
+894,Iowa,Hardin,478175.0
+895,Wisconsin,Washington,477042.0
+896,Montana,Sheridan,476140.0
+897,Georgia,Forsyth,475132.0
+898,Wisconsin,Pierce,475067.0
+899,Iowa,Clayton,473277.0
+900,New York,Monroe,471556.0
+901,Oregon,Jackson,471212.0
+902,Florida,Escambia,469273.0
+903,Georgia,Bibb,468709.0
+904,New York,Saratoga,467739.0
+905,Pennsylvania,Delaware,467054.0
+906,Wisconsin,Chippewa,465305.0
+907,Kansas,Stanton,463548.0
+908,Louisiana,Ascension,463000.0
+909,Oklahoma,Choctaw,462541.0
+910,Texas,El Paso,462060.0
+911,Indiana,Shelby,461813.0
+912,New Mexico,Bernalillo,461486.0
+913,West Virginia,Mercer,460932.0
+914,New York,Oneida,458288.0
+915,California,Marin,454699.0
+916,New York,Ulster,453869.0
+917,Indiana,Dubois,452650.0
+918,Kansas,Stafford,452484.0
+919,Tennessee,Franklin,449393.0
+920,West Virginia,Calhoun,448827.0
+921,Kentucky,Bullitt,448675.0
+922,Pennsylvania,Huntingdon,447858.0
+923,Oklahoma,Hughes,445009.0
+924,Utah,Davis,443787.0
+925,Georgia,Chatham,442662.0
+926,Mississippi,Copiah,441704.0
+927,South Carolina,Kershaw,439631.0
+928,Montana,Toole,438513.0
+929,Montana,Lincoln,436681.0
+930,Oklahoma,Harper,435009.0
+931,North Carolina,Cabarrus,434995.0
+932,Virginia,Goochland,431819.0
+933,Georgia,Muscogee,431796.0
+934,South Dakota,Butte,431365.0
+935,Wisconsin,Columbia,429938.0
+936,Texas,Sabine,429366.0
+937,Florida,Sarasota,427364.0
+938,Colorado,Broomfield,425779.0
+939,Illinois,Marion,424939.0
+940,Iowa,Linn,422654.0
+941,Michigan,Alpena,422117.0
+942,Michigan,Kent,421650.0
+943,Texas,Camp,421559.0
+944,North Dakota,Burleigh,421215.0
+945,Kentucky,Whitley,420772.0
+946,Kansas,Montgomery,418850.0
+947,Massachusetts,Hampden,417803.0
+948,Michigan,Montmorency,416371.0
+949,Oregon,Douglas,415690.0
+950,New York,Schenectady,415603.0
+951,Michigan,Lapeer,414908.0
+952,Virginia,Buckingham,413650.0
+953,Missouri,Wayne,413325.0
+954,New Mexico,Santa Fe,412676.0
+955,Illinois,McHenry,410230.0
+956,Utah,Juab,410210.0
+957,Kansas,Greenwood,409625.0
+958,Missouri,Cape Girardeau,409608.0
+959,West Virginia,Jackson,409409.0
+960,Montana,Custer,408358.0
+961,Virginia,Botetourt,408015.0
+962,Ohio,Hocking,407960.0
+963,Alabama,Choctaw,407238.0
+964,Georgia,Murray,404836.0
+965,Illinois,Grundy,404536.0
+966,South Carolina,Chesterfield,403645.0
+967,North Carolina,Forsyth,402187.0
+968,Georgia,Henry,399895.0
+969,Texas,Falls,399577.0
+970,Illinois,Hardin,398696.0
+971,Pennsylvania,Potter,398690.0
+972,New York,Sullivan,397401.0
+973,Missouri,Platte,396532.0
+974,Nevada,Storey,396277.0
+975,Oklahoma,Okmulgee,395946.0
+976,Connecticut,New London,394777.0
+977,Indiana,Grant,394485.0
+978,South Carolina,Horry,393688.0
+979,Louisiana,Tangipahoa,392729.0
+980,Ohio,Vinton,392701.0
+981,Mississippi,Pike,391973.0
+982,Idaho,Idaho,391605.0
+983,Oklahoma,Logan,390688.0
+984,Utah,Utah,390496.0
+985,Indiana,Clark,390378.0
+986,Illinois,Wayne,390143.0
+987,Iowa,Story,389968.0
+988,Arkansas,Ouachita,389463.0
+989,Arkansas,Independence,389198.0
+990,Missouri,St. Francois,387778.0
+991,Kansas,Trego,386454.0
+992,Michigan,Mackinac,386026.0
+993,North Dakota,Grand Forks,385486.0
+994,Georgia,Gilmer,385026.0
+995,South Carolina,Greenville,384854.0
+996,Louisiana,West Baton Rouge,384514.0
+997,Montana,Glacier,384421.0
+998,Missouri,Jackson,383478.0
+999,Florida,Citrus,383443.0
+1000,Vermont,Windsor,383166.0
+1001,Indiana,Harrison,383067.0
+1002,Alabama,Madison,381201.0
+1003,Maryland,Washington,380480.0
+1004,Mississippi,Covington,379725.0
+1005,Georgia,Douglas,379388.0
+1006,Kentucky,Meade,379307.0
+1007,Connecticut,Windham,379241.0
+1008,Ohio,Athens,379049.0
+1009,Mississippi,Pearl River,378286.0
+1010,Oklahoma,Atoka,378011.0
+1011,Florida,Pasco,375377.0
+1012,Oklahoma,Ottawa,374303.0
+1013,Alabama,Franklin,374262.0
+1014,Louisiana,Catahoula,373409.0
+1015,Kentucky,Lee,372248.0
+1016,Tennessee,Henry,372004.0
+1017,Maryland,Harford,371864.0
+1018,Louisiana,Natchitoches,371319.0
+1019,Colorado,Lincoln,370923.0
+1020,Arkansas,Lafayette,370550.0
+1021,West Virginia,Putnam,370397.0
+1022,Kentucky,Boone,369993.0
+1023,Massachusetts,Barnstable,368867.0
+1024,Missouri,Callaway,368624.0
+1025,Virginia,Culpeper,368059.0
+1026,Texas,Walker,365587.0
+1027,Rhode Island,Washington,364691.0
+1028,Montana,Phillips,364563.0
+1029,West Virginia,Grant,363958.0
+1030,North Carolina,Cleveland,362023.0
+1031,North Carolina,Lee,359384.0
+1032,Florida,Sumter,358692.0
+1033,New York,Allegany,358413.0
+1034,Wisconsin,Marathon,357345.0
+1035,Kansas,Ellsworth,357154.0
+1036,Kansas,Chase,356253.0
+1037,Montana,Blaine,354819.0
+1038,Colorado,Prowers,354152.0
+1039,Virginia,Wythe,353751.0
+1040,New York,Orange,352954.0
+1041,Arkansas,Johnson,351719.0
+1042,Missouri,Greene,351330.0
+1043,Texas,Burnet,351218.0
+1044,Arkansas,Izard,350930.0
+1045,Montana,Hill,350620.0
+1046,Florida,Putnam,350597.0
+1047,Oregon,Yamhill,349305.0
+1048,Massachusetts,Berkshire,349279.0
+1049,New Jersey,Middlesex,348174.0
+1050,Indiana,Wabash,347964.0
+1051,South Dakota,Harding,347412.0
+1052,Tennessee,Hawkins,347150.0
+1053,Oregon,Columbia,346828.0
+1054,Kansas,Comanche,345664.0
+1055,Missouri,Madison,345384.0
+1056,Michigan,Sanilac,345078.0
+1057,Illinois,Rock Island,343704.0
+1058,Alabama,Morgan,343399.0
+1059,Ohio,Greene,341968.0
+1060,New Jersey,Sussex,341330.0
+1061,New York,Delaware,340493.0
+1062,Wisconsin,Green Lake,340082.0
+1063,California,Nevada,339437.0
+1064,Georgia,Clayton,339129.0
+1065,Missouri,Boone,337245.0
+1066,Illinois,Richland,336933.0
+1067,Virginia,Fauquier,336456.0
+1068,Kansas,McPherson,334640.0
+1069,Georgia,Oglethorpe,333833.0
+1070,Georgia,Monroe,333822.0
+1071,Oregon,Malheur,330804.0
+1072,Missouri,Christian,329819.0
+1073,Ohio,Morgan,329802.0
+1074,Texas,Red River,329785.0
+1075,Michigan,Ingham,328424.0
+1076,North Dakota,Renville,327624.0
+1077,North Carolina,Harnett,327306.0
+1078,Kentucky,McLean,327124.0
+1079,Arkansas,Miller,326818.0
+1080,Wisconsin,Polk,326807.0
+1081,California,San Francisco,326006.0
+1082,Illinois,St. Clair,325463.0
+1083,New Mexico,Curry,324907.0
+1084,Michigan,Osceola,324371.0
+1085,Illinois,Crawford,324058.0
+1086,Washington,Ferry,322507.0
+1087,Oklahoma,Coal,322080.0
+1088,Nebraska,Dawes,321910.0
+1089,Alabama,Lee,321822.0
+1090,Iowa,Johnson,321822.0
+1091,Missouri,Washington,321369.0
+1092,Wyoming,Niobrara,320758.0
+1093,Oregon,Deschutes,318956.0
+1094,Michigan,Muskegon,318696.0
+1095,Tennessee,Anderson,318616.0
+1096,Georgia,Fayette,317350.0
+1097,Oregon,Coos,315900.0
+1098,Louisiana,Morehouse,315671.0
+1099,Massachusetts,Essex,315569.0
+1100,Colorado,Ouray,314881.0
+1101,Virginia,Chesterfield,314633.0
+1102,Missouri,Franklin,314227.0
+1103,Wisconsin,Manitowoc,313970.0
+1104,Washington,Grant,313105.0
+1105,Connecticut,Fairfield,310991.0
+1106,California,Lake,310588.0
+1107,Illinois,Clay,308805.0
+1108,North Carolina,Anson,308565.0
+1109,North Carolina,Rutherford,308364.0
+1110,Alabama,Lamar,307574.0
+1111,Illinois,Fayette,307342.0
+1112,Georgia,Jones,307049.0
+1113,Texas,Kaufman,305793.0
+1114,California,Placer,305630.0
+1115,Alabama,Winston,304718.0
+1116,Georgia,Hall,304423.0
+1117,Florida,Orange,303230.0
+1118,Pennsylvania,Erie,300315.0
+1119,Iowa,Clinton,298148.0
+1120,Kansas,Wilson,296709.0
+1121,Pennsylvania,Cumberland,293985.0
+1122,Michigan,Roscommon,291879.0
+1123,Wisconsin,Milwaukee,290229.0
+1124,Massachusetts,Norfolk,289403.0
+1125,Nebraska,Washington,287657.0
+1126,Tennessee,Sequatchie,287535.0
+1127,Nevada,Douglas,286806.0
+1128,Colorado,Pueblo,285299.0
+1129,Alabama,Marshall,285259.0
+1130,Virginia,Alexandria,283613.0
+1131,Louisiana,Tensas,283448.0
+1132,Wyoming,Platte,283273.0
+1133,California,Napa,282928.0
+1134,Pennsylvania,Lackawanna,282567.0
+1135,Georgia,Cook,281946.0
+1136,Ohio,Medina,281852.0
+1137,Iowa,Marion,281239.0
+1138,New Hampshire,Hillsborough,280924.0
+1139,Kansas,Shawnee,280691.0
+1140,Georgia,Warren,280338.0
+1141,Texas,Cameron,279444.0
+1142,Florida,Charlotte,279291.0
+1143,Pennsylvania,Wayne,278774.0
+1144,South Dakota,Brookings,277885.0
+1145,Alabama,Washington,277254.0
+1146,Ohio,Delaware,276471.0
+1147,Mississippi,Smith,275914.0
+1148,Florida,Collier,275897.0
+1149,Illinois,DeKalb,273862.0
+1150,Montana,Carbon,273756.0
+1151,Kansas,Riley,273733.0
+1152,North Dakota,Morton,273643.0
+1153,Wisconsin,Dodge,273284.0
+1154,Kentucky,Pulaski,272503.0
+1155,Washington,Stevens,272248.0
+1156,Pennsylvania,Dauphin,272011.0
+1157,Connecticut,Tolland,271748.0
+1158,Missouri,Cole,271265.0
+1159,Virginia,Richmond City,271046.0
+1160,Kansas,Woodson,269892.0
+1161,Wisconsin,Taylor,269493.0
+1162,Pennsylvania,Bedford,269489.0
+1163,Florida,Taylor,269334.0
+1164,Tennessee,Decatur,268749.0
+1165,Vermont,Chittenden,267477.0
+1166,Tennessee,Greene,266993.0
+1167,Oregon,Multnomah,266962.0
+1168,Oklahoma,Marshall,266606.0
+1169,Alabama,Clarke,266546.0
+1170,New York,Genesee,266499.0
+1171,Nebraska,Kimball,266344.0
+1172,North Dakota,Slope,265489.0
+1173,Georgia,McDuffie,265233.0
+1174,Ohio,Morrow,264820.0
+1175,Ohio,Clark,264405.0
+1176,North Carolina,Surry,263270.0
+1177,Alabama,Cullman,263219.0
+1178,Tennessee,Maury,263111.0
+1179,Kansas,Lane,262006.0
+1180,Kansas,Logan,261647.0
+1181,Alabama,Pickens,260812.0
+1182,Wisconsin,Langlade,260773.0
+1183,Utah,Kane,260106.0
+1184,New York,Washington,259272.0
+1185,Utah,Iron,258987.0
+1186,Kansas,Cowley,258668.0
+1187,New Hampshire,Rockingham,258505.0
+1188,Kansas,Gove,258377.0
+1189,Louisiana,Grant,256941.0
+1190,Louisiana,Caldwell,256920.0
+1191,Michigan,Eaton,256481.0
+1192,Arkansas,Hot Spring,255653.0
+1193,Florida,St. Lucie,255624.0
+1194,West Virginia,Braxton,255587.0
+1195,Tennessee,Wilson,254819.0
+1196,Texas,Menard,254651.0
+1197,California,Tulare,253908.0
+1198,California,Inyo,252975.0
+1199,New York,Montgomery,252620.0
+1200,Mississippi,Simpson,252573.0
+1201,Arkansas,Jefferson,252159.0
+1202,Utah,Wasatch,249666.0
+1203,Montana,Madison,249470.0
+1204,South Carolina,York,248479.0
+1205,New Mexico,Roosevelt,248097.0
+1206,Virginia,Roanoke City,247709.0
+1207,Ohio,Wood,247269.0
+1208,Tennessee,Overton,246772.0
+1209,Wisconsin,Trempealeau,246695.0
+1210,Ohio,Fairfield,246152.0
+1211,North Carolina,Johnston,246128.0
+1212,Iowa,Sac,246107.0
+1213,Tennessee,Williamson,245773.0
+1214,Michigan,Clinton,245631.0
+1215,South Carolina,Georgetown,245500.0
+1216,Kansas,Sumner,245039.0
+1217,Alabama,Baldwin,244302.0
+1218,Kansas,Thomas,244079.0
+1219,New Hampshire,Belknap,244017.0
+1220,Alaska,Bethel,243723.0
+1221,Tennessee,Sullivan,243685.0
+1222,Florida,Jackson,243650.0
+1223,Ohio,Union,243611.0
+1224,Tennessee,Blount,243174.0
+1225,Arkansas,Yell,243095.0
+1226,Alabama,Elmore,242700.0
+1227,Alabama,Montgomery,241864.0
+1228,Nebraska,Nance,241638.0
+1229,Texas,Foard,241041.0
+1230,California,Tehama,241002.0
+1231,Oregon,Clackamas,240436.0
+1232,New York,New York,239732.0
+1233,Indiana,Morgan,239112.0
+1234,Kansas,Meade,237361.0
+1235,Texas,Bowie,236053.0
+1236,Ohio,Highland,235163.0
+1237,Oklahoma,Nowata,234605.0
+1238,Kansas,Hamilton,233842.0
+1239,Ohio,Miami,232410.0
+1240,Kansas,Kiowa,232148.0
+1241,Wisconsin,Racine,232029.0
+1242,Michigan,Antrim,232009.0
+1243,Illinois,Kankakee,231343.0
+1244,Oklahoma,Okfuskee,231194.0
+1245,Iowa,Mitchell,231137.0
+1246,Indiana,Miami,230200.0
+1247,Georgia,Cherokee,230126.0
+1248,Arkansas,Baxter,229671.0
+1249,Iowa,Madison,228565.0
+1250,Pennsylvania,Cameron,228532.0
+1251,Missouri,Taney,228246.0
+1252,Kentucky,Graves,227630.0
+1253,Kansas,Scott,227039.0
+1254,North Carolina,McDowell,226965.0
+1255,North Carolina,Lincoln,226332.0
+1256,Montana,Wibaux,225573.0
+1257,Iowa,Black Hawk,225073.0
+1258,New York,Ontario,223643.0
+1259,Illinois,Clark,223329.0
+1260,Illinois,Whiteside,222944.0
+1261,Colorado,Conejos,222853.0
+1262,Georgia,Marion,222809.0
+1263,West Virginia,Pendleton,222679.0
+1264,Kansas,Linn,220773.0
+1265,Maryland,Howard,220670.0
+1266,Florida,Alachua,220332.0
+1267,South Carolina,Dorchester,219925.0
+1268,South Dakota,Minnehaha,219679.0
+1269,Iowa,Webster,219628.0
+1270,Maine,York,219202.0
+1271,Arkansas,Lawrence,219112.0
+1272,Louisiana,Washington,218256.0
+1273,Indiana,Putnam,218023.0
+1274,Tennessee,Rutherford,218008.0
+1275,North Carolina,Macon,217632.0
+1276,Ohio,Warren,217313.0
+1277,Washington,Skagit,216947.0
+1278,West Virginia,Wood,216902.0
+1279,Florida,Levy,216138.0
+1280,Utah,Weber,215685.0
+1281,Missouri,Pike,215511.0
+1282,Kentucky,Carter,215066.0
+1283,North Carolina,Alamance,215058.0
+1284,Pennsylvania,Northampton,214356.0
+1285,Oklahoma,Ellis,214297.0
+1286,California,El Dorado,214058.0
+1287,Iowa,Jones,213230.0
+1288,Idaho,Canyon,212821.0
+1289,Idaho,Franklin,212818.0
+1290,Kansas,Franklin,211872.0
+1291,Tennessee,Scott,211674.0
+1292,Michigan,Iosco,210725.0
+1293,Illinois,Alexander,209931.0
+1294,Michigan,Manistee,208467.0
+1295,Mississippi,Monroe,208371.0
+1296,Kentucky,Scott,207631.0
+1297,New Jersey,Hudson,207020.0
+1298,Louisiana,East Feliciana,206793.0
+1299,Minnesota,Becker,206787.0
+1300,Texas,Comanche,206220.0
+1301,Colorado,Alamosa,206164.0
+1302,Alabama,Autauga,206147.0
+1303,Montana,Broadwater,205975.0
+1304,North Carolina,Onslow,205609.0
+1305,Minnesota,Rice,203275.0
+1306,Georgia,Crawford,203243.0
+1307,South Carolina,Cherokee,203195.0
+1308,Washington,Grays Harbor,202897.0
+1309,North Carolina,Craven,202814.0
+1310,Oklahoma,Craig,202504.0
+1311,Arkansas,Perry,202426.0
+1312,Illinois,Bureau,202327.0
+1313,Pennsylvania,Monroe,202168.0
+1314,Washington,Thurston,201951.0
+1315,South Carolina,Pickens,201836.0
+1316,Missouri,Clinton,201815.0
+1317,Indiana,Madison,201706.0
+1318,Virginia,Louisa,201615.0
+1319,South Dakota,Walworth,201497.0
+1320,West Virginia,Pleasants,201429.0
+1321,Tennessee,Benton,200421.0
+1322,Indiana,Clay,200415.0
+1323,California,Santa Cruz,200295.0
+1324,Indiana,Orange,199299.0
+1325,Michigan,Chippewa,199182.0
+1326,Mississippi,Forrest,198302.0
+1327,North Carolina,New Hanover,198234.0
+1328,Iowa,Des Moines,197688.0
+1329,Maryland,Charles,196369.0
+1330,Georgia,Glascock,196221.0
+1331,Alabama,Etowah,196153.0
+1332,West Virginia,Jefferson,195707.0
+1333,Idaho,Owyhee,195014.0
+1334,Oklahoma,Bryan,194789.0
+1335,Tennessee,Putnam,194233.0
+1336,Kansas,Ford,193690.0
+1337,Oklahoma,Muskogee,192774.0
+1338,Mississippi,Lowndes,192747.0
+1339,Virginia,Chesapeake,192425.0
+1340,Virginia,Stafford,192121.0
+1341,Alabama,Blount,192040.0
+1342,Louisiana,St. Charles,191596.0
+1343,Massachusetts,Bristol,190671.0
+1344,Ohio,Allen,190358.0
+1345,Mississippi,Jackson,189502.0
+1346,North Carolina,Randolph,189258.0
+1347,Utah,Sanpete,188138.0
+1348,Arkansas,Pike,187629.0
+1349,Kentucky,Greenup,186872.0
+1350,Ohio,Adams,186578.0
+1351,Kentucky,Nelson,186399.0
+1352,Ohio,Logan,185960.0
+1353,Pennsylvania,Columbia,185382.0
+1354,New York,Wayne,184651.0
+1355,Virginia,Brunswick,184581.0
+1356,Tennessee,Perry,182469.0
+1357,New Hampshire,Grafton,181955.0
+1358,Tennessee,Shelby,181611.0
+1359,Missouri,Marion,181552.0
+1360,Kansas,Miami,181468.0
+1361,Kentucky,Caldwell,181139.0
+1362,Washington,Kitsap,179376.0
+1363,Arkansas,Benton,179005.0
+1364,California,Stanislaus,178710.0
+1365,North Dakota,Golden Valley,178703.0
+1366,Georgia,Lowndes,178335.0
+1367,Kentucky,Casey,177745.0
+1368,Michigan,Ottawa,177209.0
+1369,Texas,Collingsworth,177170.0
+1370,South Carolina,Marlboro,176701.0
+1371,Arkansas,Polk,175792.0
+1372,Kentucky,Gallatin,174944.0
+1373,Michigan,Macomb,174894.0
+1374,Arkansas,Grant,174420.0
+1375,Texas,Fannin,173949.0
+1376,Michigan,Kalamazoo,173526.0
+1377,Colorado,Kiowa,173145.0
+1378,Texas,Baylor,172480.0
+1379,Indiana,Huntington,172421.0
+1380,Iowa,Muscatine,172307.0
+1381,Arizona,La Paz,171371.0
+1382,Michigan,Mason,169786.0
+1383,Kentucky,Oldham,169721.0
+1384,West Virginia,Mason,169292.0
+1385,New York,Columbia,169088.0
+1386,North Carolina,Pitt,168920.0
+1387,Kansas,Phillips,168362.0
+1388,Michigan,Calhoun,168358.0
+1389,Indiana,Montgomery,167694.0
+1390,New York,Oswego,167199.0
+1391,Virginia,Franklin County,166136.0
+1392,Missouri,Andrew,166029.0
+1393,Montana,Sanders,165414.0
+1394,New York,Schuyler,165376.0
+1395,North Carolina,Catawba,165253.0
+1396,Illinois,Ogle,165073.0
+1397,California,Kings,163844.0
+1398,Oklahoma,Sequoyah,163798.0
+1399,Illinois,Pike,163773.0
+1400,Michigan,Shiawassee,163596.0
+1401,Alabama,Lowndes,163072.0
+1402,Kansas,Hodgeman,162555.0
+1403,Kentucky,Clay,162044.0
+1404,Nebraska,Buffalo,161353.0
+1405,Indiana,Elkhart,160626.0
+1406,Ohio,Montgomery,160351.0
+1407,Idaho,Benewah,159697.0
+1408,Kentucky,Madison,159600.0
+1409,Minnesota,Ramsey,159138.0
+1410,Iowa,Pocahontas,158053.0
+1411,Kansas,Clark,157729.0
+1412,Tennessee,Sevier,157653.0
+1413,North Carolina,Union,156822.0
+1414,Texas,Randall,155800.0
+1415,North Carolina,Davidson,154930.0
+1416,Kentucky,Estill,154827.0
+1417,Tennessee,Marshall,154252.0
+1418,South Dakota,Pennington,153848.0
+1419,Indiana,Delaware,153680.0
+1420,Mississippi,Franklin,152882.0
+1421,Tennessee,Cocke,152397.0
+1422,Kentucky,Christian,152374.0
+1423,Iowa,Sioux,152369.0
+1424,Kentucky,Powell,152241.0
+1425,Mississippi,DeSoto,152058.0
+1426,Missouri,Phelps,152043.0
+1427,Michigan,Washtenaw,151965.0
+1428,New York,Jefferson,151963.0
+1429,Illinois,Lee,151907.0
+1430,Vermont,Franklin,151344.0
+1431,Washington,Franklin,151109.0
+1432,Michigan,Livingston,150641.0
+1433,Iowa,Pottawattamie,150558.0
+1434,Texas,Mason,150286.0
+1435,Missouri,Warren,150143.0
+1436,New York,Orleans,150038.0
+1437,Kansas,Rawlins,150003.0
+1438,Florida,Brevard,149915.0
+1439,New York,Schoharie,149648.0
+1440,Virginia,King William,149483.0
+1441,Kansas,Coffey,149324.0
+1442,Georgia,Taylor,148847.0
+1443,Missouri,Bates,148755.0
+1444,Kansas,Chautauqua,148393.0
+1445,Nebraska,Hitchcock,148351.0
+1446,Alabama,Covington,148329.0
+1447,North Carolina,Moore,148195.0
+1448,North Carolina,Wilson,148161.0
+1449,Illinois,Peoria,147719.0
+1450,Ohio,Ashland,147702.0
+1451,North Carolina,Durham,147500.0
+1452,Georgia,Coweta,147482.0
+1453,Minnesota,Polk,147216.0
+1454,Georgia,Polk,146962.0
+1455,Vermont,Addison,146707.0
+1456,Kansas,Wyandotte,146673.0
+1457,Indiana,Tippecanoe,146541.0
+1458,Kansas,Crawford,146422.0
+1459,Indiana,Bartholomew,146364.0
+1460,Missouri,Pettis,146237.0
+1461,Arkansas,Washington,146084.0
+1462,Kansas,Cherokee,145808.0
+1463,Idaho,Blaine,145745.0
+1464,Alabama,Jackson,145310.0
+1465,North Carolina,Gaston,144877.0
+1466,Ohio,Crawford,144875.0
+1467,Georgia,Hart,144834.0
+1468,Georgia,Jasper,144806.0
+1469,Georgia,Carroll,144692.0
+1470,Pennsylvania,Lebanon,144318.0
+1471,Oregon,Josephine,144064.0
+1472,Illinois,Coles,143398.0
+1473,New Mexico,Socorro,143376.0
+1474,North Carolina,Caswell,143321.0
+1475,Illinois,Union,143132.0
+1476,Indiana,Jasper,142123.0
+1477,South Carolina,Laurens,141520.0
+1478,North Carolina,Orange,141239.0
+1479,Kentucky,Hardin,141126.0
+1480,Wisconsin,Sauk,140874.0
+1481,Alabama,Marion,140809.0
+1482,Tennessee,Hardin,140779.0
+1483,Minnesota,Clay,140372.0
+1484,New Jersey,Cape May,140315.0
+1485,Virginia,Powhatan,139593.0
+1486,Illinois,Monroe,139545.0
+1487,Florida,Highlands,139504.0
+1488,Illinois,Kendall,139017.0
+1489,Ohio,Brown,138983.0
+1490,Indiana,Cass,138690.0
+1491,Wisconsin,Iowa,138406.0
+1492,New Jersey,Mercer,137725.0
+1493,Illinois,Logan,137488.0
+1494,South Dakota,Grant,137380.0
+1495,Kansas,Anderson,137166.0
+1496,Virginia,Greene,137031.0
+1497,Oklahoma,Roger Mills,136796.0
+1498,Ohio,Pickaway,136547.0
+1499,Texas,Gillespie,135505.0
+1500,North Carolina,Nash,135318.0
+1501,Kansas,Cheyenne,135265.0
+1502,New York,Madison,135190.0
+1503,Georgia,Jackson,135177.0
+1504,Georgia,Floyd,133686.0
+1505,Virginia,King George,133558.0
+1506,Wyoming,Teton,133461.0
+1507,North Carolina,Watauga,133051.0
+1508,Pennsylvania,Pike,132986.0
+1509,Tennessee,Robertson,132873.0
+1510,Utah,Box Elder,132692.0
+1511,California,San Benito,132066.0
+1512,Tennessee,Rhea,131410.0
+1513,Nebraska,Red Willow,131382.0
+1514,Indiana,DeKalb,131220.0
+1515,North Carolina,Pender,130800.0
+1516,Mississippi,Greene,130190.0
+1517,Tennessee,Carter,129842.0
+1518,Massachusetts,Suffolk,129802.0
+1519,North Carolina,Iredell,129455.0
+1520,North Carolina,Chatham,129167.0
+1521,Wisconsin,Portage,129059.0
+1522,New Jersey,Bergen,127639.0
+1523,Maryland,Dorchester,127619.0
+1524,Michigan,Missaukee,127122.0
+1525,New York,Herkimer,127098.0
+1526,Michigan,Lenawee,126951.0
+1527,Missouri,Perry,126784.0
+1528,South Carolina,Greenwood,126685.0
+1529,Florida,Leon,126161.0
+1530,Arkansas,Scott,126061.0
+1531,Alabama,Bibb,125954.0
+1532,Georgia,Columbia,125658.0
+1533,Indiana,Posey,125373.0
+1534,Kansas,Marion,125215.0
+1535,Texas,Trinity,125006.0
+1536,Illinois,Johnson,124816.0
+1537,Louisiana,St. Bernard,124740.0
+1538,Virginia,Henrico,124713.0
+1539,Massachusetts,Hampshire,123792.0
+1540,Kansas,Harvey,123387.0
+1541,Alabama,Dallas,123325.0
+1542,Mississippi,Quitman,122833.0
+1543,Kansas,Rush,122088.0
+1544,Michigan,Oceana,122071.0
+1545,Iowa,Jasper,121942.0
+1546,Missouri,Pulaski,121441.0
+1547,New Jersey,Camden,121312.0
+1548,Maine,Cumberland,120978.0
+1549,Georgia,Clarke,120691.0
+1550,Minnesota,Winona,120553.0
+1551,North Carolina,Wilkes,120537.0
+1552,Kansas,Osage,119700.0
+1553,Maryland,Frederick,119086.0
+1554,Mississippi,Warren,118687.0
+1555,Oklahoma,Jefferson,118082.0
+1556,Indiana,LaPorte,118061.0
+1557,Tennessee,Madison,117900.0
+1558,Washington,Jefferson,117320.0
+1559,Indiana,Switzerland,116669.0
+1560,Tennessee,Dickson,116498.0
+1561,North Carolina,Henderson,116245.0
+1562,Wisconsin,Ozaukee,115867.0
+1563,Indiana,Adams,115847.0
+1564,North Carolina,Burke,115374.0
+1565,Illinois,Livingston,115343.0
+1566,Colorado,Grand,115086.0
+1567,Iowa,Benton,114791.0
+1568,Oklahoma,Love,114689.0
+1569,Colorado,Baca,114407.0
+1570,Kansas,Pawnee,114282.0
+1571,Washington,Pacific,113691.0
+1572,North Carolina,Davie,113291.0
+1573,Indiana,Carroll,113083.0
+1574,District of Columbia,District of Columbia,112937.0
+1575,Florida,Suwannee,112881.0
+1576,Idaho,Bannock,111489.0
+1577,North Carolina,Stanly,111286.0
+1578,Missouri,Knox,110717.0
+1579,Kansas,Edwards,110591.0
+1580,Kentucky,Jessamine,110112.0
+1581,New Hampshire,Sullivan,109958.0
+1582,New Mexico,Do?â??a Ana,109871.0
+1583,Kentucky,Franklin,109745.0
+1584,Ohio,Preble,109661.0
+1585,Kansas,Greeley,109446.0
+1586,Virginia,Charles City,109434.0
+1587,Alaska,Valdez-Cordova,109290.0
+1588,New Hampshire,Strafford,108996.0
+1589,Michigan,Saginaw,108976.0
+1590,Wyoming,Albany,108691.0
+1591,Florida,Hendry,108672.0
+1592,Missouri,Randolph,108507.0
+1593,Tennessee,Monroe,108482.0
+1594,North Carolina,Vance,108471.0
+1595,Ohio,Sandusky,107832.0
+1596,Oklahoma,McIntosh,107733.0
+1597,Tennessee,Bradley,107399.0
+1598,Indiana,Spencer,107382.0
+1599,Tennessee,White,107373.0
+1600,Illinois,McDonough,107344.0
+1601,South Carolina,Marion,107245.0
+1602,Minnesota,Yellow Medicine,106974.0
+1603,Texas,San Saba,106367.0
+1604,Missouri,Stoddard,106155.0
+1605,Minnesota,Pipestone,106033.0
+1606,Oklahoma,Noble,105991.0
+1607,Alaska,Aleutians West,105964.0
+1608,Tennessee,Giles,105746.0
+1609,Alabama,DeKalb,105140.0
+1610,Illinois,Champaign,104972.0
+1611,Ohio,Williams,104817.0
+1612,Texas,Kendall,104535.0
+1613,Minnesota,Fillmore,104445.0
+1614,Kentucky,Campbell,104205.0
+1615,Oregon,Lincoln,104085.0
+1616,Kentucky,Morgan,104051.0
+1617,Idaho,Bingham,103846.0
+1618,Missouri,Howell,103640.0
+1619,Oregon,Polk,103592.0
+1620,Kentucky,Jackson,103306.0
+1621,Arizona,Yuma,103065.0
+1622,Michigan,Ogemaw,103029.0
+1623,Georgia,Spalding,102338.0
+1624,Michigan,Wexford,102232.0
+1625,Georgia,Troup,102117.0
+1626,Idaho,Lemhi,102099.0
+1627,West Virginia,Mineral,101984.0
+1628,Oregon,Curry,101815.0
+1629,Indiana,Ripley,101463.0
+1630,Florida,Osceola,101221.0
+1631,West Virginia,Cabell,101197.0
+1632,Hawaii,Kauai,101097.0
+1633,Missouri,Montgomery,101096.0
+1634,Ohio,Clermont,100993.0
+1635,Florida,Martin,100767.0
+1636,Kentucky,Wayne,100619.0
+1637,Virginia,Appomattox,100569.0
+1638,Mississippi,Perry,100030.0
+1639,New York,Otsego,99796.0
+1640,California,Mendocino,99521.0
+1641,New York,Tioga,98940.0
+1642,Indiana,Pulaski,98903.0
+1643,Texas,Rockwall,98753.0
+1644,New Hampshire,Carroll,98106.0
+1645,New York,Chenango,97850.0
+1646,Georgia,Barrow,97611.0
+1647,Missouri,Lawrence,96557.0
+1648,Indiana,White,96389.0
+1649,Mississippi,Wilkinson,96003.0
+1650,Idaho,Valley,95829.0
+1651,Iowa,Delaware,95745.0
+1652,Oklahoma,Cherokee,95708.0
+1653,West Virginia,Hancock,95601.0
+1654,Kansas,Wabaunsee,95533.0
+1655,Arkansas,Little River,95502.0
+1656,Virginia,Clarke,95410.0
+1657,Iowa,Dickinson,95359.0
+1658,South Dakota,Davison,95269.0
+1659,South Dakota,Hanson,95068.0
+1660,South Dakota,Custer,94963.0
+1661,Tennessee,Marion,94379.0
+1662,Missouri,Osage,94062.0
+1663,North Carolina,Cherokee,93360.0
+1664,Indiana,Johnson,93104.0
+1665,Montana,Lake,93042.0
+1666,Iowa,Plymouth,92680.0
+1667,Arkansas,Calhoun,92591.0
+1668,Kansas,Decatur,92445.0
+1669,Ohio,Paulding,92236.0
+1670,Virginia,Nottoway,91766.0
+1671,Missouri,Newton,91737.0
+1672,Louisiana,St. Helena,91592.0
+1673,Wisconsin,Jefferson,91455.0
+1674,Ohio,Lawrence,91409.0
+1675,Iowa,Appanoose,91303.0
+1676,Oregon,Lake,91293.0
+1677,Minnesota,Renville,91057.0
+1678,Hawaii,Hawaii,90576.0
+1679,Florida,Indian River,90423.0
+1680,Minnesota,Mille Lacs,90316.0
+1681,Washington,Yakima,90013.0
+1682,Illinois,Christian,89976.0
+1683,California,Humboldt,89830.0
+1684,Nebraska,Sarpy,89225.0
+1685,Idaho,Gem,89166.0
+1686,Idaho,Twin Falls,89100.0
+1687,Idaho,Latah,88994.0
+1688,Kansas,Norton,88911.0
+1689,Mississippi,Amite,88714.0
+1690,Georgia,Rabun,88662.0
+1691,Montana,Valley,88651.0
+1692,Arizona,Santa Cruz,88303.0
+1693,Pennsylvania,Carbon,88295.0
+1694,Minnesota,Steele,88238.0
+1695,Missouri,Miller,88162.0
+1696,Missouri,Barry,87826.0
+1697,Kentucky,Barren,86797.0
+1698,Georgia,Union,86589.0
+1699,Montana,Missoula,86438.0
+1700,Michigan,Bay,86432.0
+1701,Delaware,New Castle,86020.0
+1702,Tennessee,McMinn,85966.0
+1703,Kansas,Sheridan,85839.0
+1704,Utah,Morgan,85797.0
+1705,New York,Cayuga,85767.0
+1706,Oklahoma,Wagoner,85755.0
+1707,Mississippi,Kemper,85531.0
+1708,Minnesota,Hubbard,85501.0
+1709,Indiana,Decatur,85216.0
+1710,New York,Broome,85174.0
+1711,Minnesota,Aitkin,84918.0
+1712,Alabama,Calhoun,84729.0
+1713,Michigan,Arenac,84727.0
+1714,Alabama,Russell,84578.0
+1715,Kentucky,Boyle,84260.0
+1716,Illinois,Jo Daviess,84194.0
+1717,Ohio,Richland,83948.0
+1718,Missouri,Crawford,83765.0
+1719,North Carolina,Rockingham,83562.0
+1720,Vermont,Caledonia,83384.0
+1721,Indiana,Jennings,83329.0
+1722,Florida,Pinellas,82566.0
+1723,Kentucky,Anderson,82500.0
+1724,Georgia,Lumpkin,82284.0
+1725,Kentucky,Rockcastle,81942.0
+1726,Illinois,Hancock,81941.0
+1727,Missouri,Stone,81791.0
+1728,Florida,Bay,81329.0
+1729,Montana,Golden Valley,81193.0
+1730,Nevada,Churchill,81153.0
+1731,Georgia,Greene,81122.0
+1732,Alabama,Houston,81004.0
+1733,Indiana,Howard,80948.0
+1734,Minnesota,Morrison,80799.0
+1735,Ohio,Huron,80601.0
+1736,Indiana,St. Joseph,80228.0
+1737,Tennessee,Polk,80155.0
+1738,South Carolina,Fairfield,79659.0
+1739,Nebraska,Lincoln,79641.0
+1740,Arkansas,Crittenden,79486.0
+1741,Rhode Island,Newport,79428.0
+1742,Florida,Lafayette,79212.0
+1743,Illinois,Jasper,78944.0
+1744,Alabama,Lawrence,78702.0
+1745,New York,Seneca,78622.0
+1746,Missouri,Gasconade,78540.0
+1747,Georgia,Rockdale,78330.0
+1748,Iowa,Adair,78316.0
+1749,Iowa,Woodbury,78240.0
+1750,Utah,Garfield,78086.0
+1751,Pennsylvania,Snyder,77988.0
+1752,Virginia,Halifax,77966.0
+1753,Michigan,Oscoda,77922.0
+1754,Pennsylvania,Perry,77624.0
+1755,Montana,Pondera,77576.0
+1756,Colorado,Phillips,77522.0
+1757,Tennessee,Loudon,77466.0
+1758,Michigan,Leelanau,77173.0
+1759,North Carolina,Edgecombe,76989.0
+1760,Tennessee,Fentress,76881.0
+1761,Mississippi,Oktibbeha,76875.0
+1762,North Carolina,Franklin,76857.0
+1763,Ohio,Gallia,76816.0
+1764,Mississippi,Walthall,76613.0
+1765,Texas,Coryell,76477.0
+1766,Kentucky,Bourbon,76460.0
+1767,Mississippi,Washington,76443.0
+1768,Ohio,Mercer,75799.0
+1769,Texas,Morris,75410.0
+1770,Oregon,Umatilla,75309.0
+1771,Indiana,Wayne,75078.0
+1772,South Carolina,Colleton,74894.0
+1773,Missouri,Ray,74760.0
+1774,New York,Westchester,74713.0
+1775,Kansas,Labette,74628.0
+1776,Ohio,Pike,74584.0
+1777,Wisconsin,Dunn,74504.0
+1778,New Mexico,Valencia,74448.0
+1779,Texas,Brewster,74345.0
+1780,Minnesota,Otter Tail,74306.0
+1781,Michigan,Gladwin,74136.0
+1782,Iowa,Keokuk,74126.0
+1783,Iowa,Dallas,73911.0
+1784,North Carolina,Caldwell,73725.0
+1785,North Carolina,Jackson,73477.0
+1786,Arkansas,Poinsett,73355.0
+1787,Indiana,Jay,72436.0
+1788,Maine,Kennebec,72410.0
+1789,Minnesota,Nicollet,72384.0
+1790,Iowa,Scott,72365.0
+1791,Maryland,Caroline,72304.0
+1792,Georgia,Newton,72196.0
+1793,Virginia,Caroline,72093.0
+1794,Alabama,Randolph,71992.0
+1795,Georgia,Glynn,71872.0
+1796,South Dakota,Brown,71862.0
+1797,Kentucky,Breckinridge,71728.0
+1798,Connecticut,Middlesex,71570.0
+1799,New Mexico,Torrance,71481.0
+1800,Wisconsin,Crawford,71413.0
+1801,Minnesota,Murray,71222.0
+1802,Illinois,Clinton,70879.0
+1803,Ohio,Ross,70846.0
+1804,Indiana,Floyd,70763.0
+1805,New York,Wyoming,70736.0
+1806,Illinois,Douglas,70684.0
+1807,Iowa,Hamilton,70596.0
+1808,Florida,Manatee,70593.0
+1809,Montana,Liberty,70466.0
+1810,Utah,Wayne,70071.0
+1811,Indiana,Scott,70058.0
+1812,Iowa,Louisa,70046.0
+1813,Virginia,Mecklenburg,69950.0
+1814,Nebraska,Saunders,69859.0
+1815,Missouri,Shelby,69780.0
+1816,Iowa,Worth,69705.0
+1817,New Jersey,Monmouth,69583.0
+1818,Louisiana,Richland,69340.0
+1819,Texas,Bosque,69202.0
+1820,Tennessee,Lawrence,68701.0
+1821,Nebraska,Clay,68577.0
+1822,Alabama,Macon,68510.0
+1823,Minnesota,Kanabec,67884.0
+1824,Illinois,Tazewell,67785.0
+1825,Mississippi,Panola,67592.0
+1826,Missouri,Lewis,67421.0
+1827,North Carolina,Madison,67416.0
+1828,Missouri,Webster,67304.0
+1829,Wisconsin,St. Croix,66338.0
+1830,Tennessee,Hamblen,66305.0
+1831,West Virginia,Wirt,66165.0
+1832,Iowa,Van Buren,65782.0
+1833,Iowa,Wapello,65770.0
+1834,New Mexico,Sierra,65549.0
+1835,Missouri,Caldwell,65479.0
+1836,Tennessee,Cannon,65478.0
+1837,Georgia,Stephens,65264.0
+1838,Minnesota,Olmsted,65206.0
+1839,New Jersey,Atlantic,65129.0
+1840,Mississippi,Itawamba,65088.0
+1841,Florida,Columbia,64946.0
+1842,Kansas,Lyon,64792.0
+1843,Kentucky,Adair,64690.0
+1844,Colorado,Kit Carson,64674.0
+1845,Alaska,Prince of Wales-Hyder,64210.0
+1846,Florida,Washington,64105.0
+1847,Minnesota,Marshall,64060.0
+1848,Oregon,Linn,64042.0
+1849,Florida,Flagler,64041.0
+1850,Colorado,Eagle,63948.0
+1851,Ohio,Lorain,63931.0
+1852,Tennessee,Humphreys,63696.0
+1853,Washington,Clallam,63462.0
+1854,Oregon,Benton,63424.0
+1855,Iowa,Marshall,63368.0
+1856,Missouri,Texas,63309.0
+1857,Wisconsin,Oconto,63207.0
+1858,Louisiana,West Feliciana,63193.0
+1859,Maine,Androscoggin,63096.0
+1860,Kansas,Osborne,63014.0
+1861,Oklahoma,Pushmataha,62982.0
+1862,Kentucky,Henry,62966.0
+1863,Kentucky,Crittenden,62912.0
+1864,Michigan,Montcalm,62890.0
+1865,New Mexico,Otero,62788.0
+1866,Texas,Lampasas,62581.0
+1867,New York,Fulton,62481.0
+1868,Pennsylvania,Union,62386.0
+1869,Indiana,Newton,62252.0
+1870,California,Trinity,62234.0
+1871,Ohio,Shelby,62150.0
+1872,Alaska,Ketchikan Gateway,62093.0
+1873,New York,Nassau,61863.0
+1874,Oregon,Crook,61722.0
+1875,Florida,Glades,61713.0
+1876,Iowa,Bremer,61549.0
+1877,Ohio,Marion,61294.0
+1878,South Carolina,Charleston,61121.0
+1879,Kentucky,Clinton,60884.0
+1880,Wisconsin,Burnett,60790.0
+1881,Georgia,Habersham,60576.0
+1882,Mississippi,Holmes,60569.0
+1883,Tennessee,Wayne,60563.0
+1884,West Virginia,Berkeley,60538.0
+1885,Alabama,Tallapoosa,60483.0
+1886,Missouri,Howard,60303.0
+1887,Washington,Island,60197.0
+1888,Minnesota,Swift,60153.0
+1889,Florida,St. Johns,60101.0
+1890,Texas,Kerr,59989.0
+1891,Oregon,Baker,59974.0
+1892,Missouri,Monroe,59921.0
+1893,Georgia,Madison,59869.0
+1894,Kentucky,Grayson,59794.0
+1895,South Dakota,Gregory,59742.0
+1896,North Carolina,Ashe,59679.0
+1897,Vermont,Windham,59605.0
+1898,Missouri,Buchanan,59215.0
+1899,Colorado,Chaffee,59174.0
+1900,Ohio,Auglaize,59150.0
+1901,Maryland,Carroll,58935.0
+1902,Nebraska,Dawson,58829.0
+1903,Michigan,Crawford,58655.0
+1904,Indiana,Hendricks,58352.0
+1905,Texas,Motley,58348.0
+1906,Virginia,Fluvanna,58301.0
+1907,Arkansas,Nevada,58251.0
+1908,Indiana,Henry,57913.0
+1909,North Carolina,Transylvania,57900.0
+1910,Tennessee,Unicoi,57612.0
+1911,Iowa,Cass,57247.0
+1912,Mississippi,Hancock,57169.0
+1913,North Dakota,Wells,57029.0
+1914,Michigan,Genesee,56961.0
+1915,Kansas,Saline,56944.0
+1916,Kentucky,Fleming,56772.0
+1917,Kansas,Douglas,56537.0
+1918,Iowa,Carroll,56338.0
+1919,Missouri,Carroll,56270.0
+1920,Wisconsin,Rusk,55911.0
+1921,North Carolina,Yancey,55836.0
+1922,Nebraska,Hall,55735.0
+1923,Ohio,Putnam,55584.0
+1924,South Carolina,Edgefield,55550.0
+1925,Idaho,Clearwater,55499.0
+1926,Tennessee,McNairy,55338.0
+1927,Kansas,Atchison,55147.0
+1928,Nebraska,Cuming,54945.0
+1929,Missouri,Butler,54920.0
+1930,Alabama,Chilton,54874.0
+1931,Arkansas,Craighead,54769.0
+1932,Indiana,Martin,54629.0
+1933,New Hampshire,Coos,54492.0
+1934,Washington,Mason,54300.0
+1935,Indiana,Noble,54096.0
+1936,North Carolina,Currituck,54028.0
+1937,Minnesota,Meeker,53541.0
+1938,Ohio,Fulton,53462.0
+1939,New York,Kings,53457.0
+1940,Oklahoma,McCurtain,53414.0
+1941,Kansas,Bourbon,53279.0
+1942,Missouri,Audrain,52818.0
+1943,Vermont,Orange,52817.0
+1944,Mississippi,Lawrence,52756.0
+1945,Ohio,Van Wert,52682.0
+1946,Michigan,Houghton,52618.0
+1947,California,Mono,52569.0
+1948,Alaska,Petersburg,52372.0
+1949,Utah,Cache,52337.0
+1950,Arkansas,Lonoke,52280.0
+1951,Kansas,Gray,52253.0
+1952,Iowa,Cerro Gordo,52198.0
+1953,Florida,Okeechobee,52160.0
+1954,Kansas,Elk,51595.0
+1955,Illinois,Henry,51478.0
+1956,Wisconsin,Sheboygan,51240.0
+1957,Minnesota,Douglas,51225.0
+1958,Minnesota,Dodge,51025.0
+1959,Missouri,Vernon,50875.0
+1960,Georgia,Pike,50851.0
+1961,Arkansas,Sevier,50849.0
+1962,Nebraska,Cheyenne,50793.0
+1963,North Dakota,McHenry,50770.0
+1964,Georgia,Paulding,50628.0
+1965,Georgia,Hancock,50472.0
+1966,Illinois,Henderson,50207.0
+1967,Wisconsin,Clark,50116.0
+1968,Minnesota,McLeod,49580.0
+1969,Illinois,Marshall,49519.0
+1970,Alabama,Cherokee,49497.0
+1971,North Dakota,Ramsey,49437.0
+1972,Minnesota,Goodhue,49360.0
+1973,Ohio,Champaign,49272.0
+1974,Minnesota,Wilkin,49152.0
+1975,Washington,Chelan,48968.0
+1976,Missouri,Henry,48725.0
+1977,Tennessee,Clay,48603.0
+1978,Georgia,Brantley,48601.0
+1979,Nevada,Lincoln,48494.0
+1980,Iowa,Adams,48224.0
+1981,Arkansas,Carroll,48216.0
+1982,Texas,Kimble,47995.0
+1983,Kentucky,Mercer,47906.0
+1984,Georgia,Effingham,47879.0
+1985,Nebraska,Pawnee,47749.0
+1986,Kentucky,Clark,47729.0
+1987,South Carolina,Florence,47656.0
+1988,Indiana,Wells,47613.0
+1989,North Dakota,Adams,47271.0
+1990,Maine,Oxford,46894.0
+1991,Missouri,Bollinger,46738.0
+1992,Alabama,Limestone,46612.0
+1993,North Dakota,Rolette,46534.0
+1994,Iowa,Buchanan,46509.0
+1995,Tennessee,Grainger,46387.0
+1996,North Carolina,Brunswick,46322.0
+1997,Michigan,Clare,46291.0
+1998,Maryland,Worcester,46260.0
+1999,Missouri,Douglas,46191.0
+2000,Mississippi,Clay,46124.0
+2001,Virginia,Pulaski,45858.0
+2002,Michigan,Alcona,45800.0
+2003,Kentucky,Montgomery,45763.0
+2004,Kansas,Wichita,45547.0
+2005,Oklahoma,Cotton,45260.0
+2006,Kansas,Wallace,45143.0
+2007,Indiana,Owen,45063.0
+2008,Florida,Seminole,44981.0
+2009,West Virginia,Hampshire,44754.0
+2010,Iowa,Washington,44601.0
+2011,New Jersey,Union,44357.0
+2012,North Carolina,Graham,44347.0
+2013,Virginia,Craig,44341.0
+2014,Texas,Llano,44312.0
+2015,Virginia,Nelson,43897.0
+2016,Oregon,Klamath,43804.0
+2017,Wisconsin,Winnebago,43695.0
+2018,New Mexico,San Miguel,43651.0
+2019,Kansas,Dickinson,43645.0
+2020,Michigan,Charlevoix,43397.0
+2021,Missouri,Polk,43287.0
+2022,Oregon,Wasco,43101.0
+2023,Nebraska,Merrick,42993.0
+2024,Iowa,Poweshiek,42947.0
+2025,Missouri,Scott,42853.0
+2026,Iowa,Hancock,42598.0
+2027,Vermont,Lamoille,42465.0
+2028,Missouri,Holt,42047.0
+2029,New Mexico,Luna,41906.0
+2030,Washington,Klickitat,41767.0
+2031,Nebraska,Madison,41729.0
+2032,Texas,Childress,41640.0
+2033,Illinois,Effingham,41454.0
+2034,Missouri,Mercer,41272.0
+2035,Missouri,Johnson,41208.0
+2036,California,Siskiyou,41195.0
+2037,Oregon,Clatsop,41172.0
+2038,Indiana,Boone,41149.0
+2039,Michigan,Huron,41043.0
+2040,Iowa,Page,40859.0
+2041,North Carolina,Alleghany,40691.0
+2042,Minnesota,Wright,40581.0
+2043,Indiana,Dearborn,40261.0
+2044,Wisconsin,Green,40258.0
+2045,Maine,Piscataquis,40188.0
+2046,Mississippi,Yalobusha,39856.0
+2047,Maryland,Kent,39824.0
+2048,Alabama,Sumter,39687.0
+2049,Tennessee,Washington,39300.0
+2050,Kentucky,Woodford,39295.0
+2051,Illinois,McLean,39220.0
+2052,Florida,Volusia,39213.0
+2053,Indiana,Perry,39194.0
+2054,Colorado,Costilla,39152.0
+2055,Kentucky,Wolfe,38998.0
+2056,Indiana,Kosciusko,38906.0
+2057,Texas,Blanco,38753.0
+2058,Kentucky,Menifee,38740.0
+2059,Illinois,Shelby,38411.0
+2060,Indiana,Franklin,38356.0
+2061,Arkansas,Saline,38352.0
+2062,Wisconsin,Eau Claire,38332.0
+2063,Alabama,St. Clair,38165.0
+2064,Illinois,Menard,37991.0
+2065,Kentucky,Metcalfe,37907.0
+2066,Nebraska,Holt,37859.0
+2067,Colorado,Park,37842.0
+2068,Nebraska,Jefferson,37833.0
+2069,Minnesota,Big Stone,37752.0
+2070,Tennessee,Union,37477.0
+2071,New Jersey,Burlington,37458.0
+2072,Indiana,Washington,37148.0
+2073,Tennessee,Bedford,37132.0
+2074,Iowa,Allamakee,37095.0
+2075,Virginia,Suffolk,37080.0
+2076,Iowa,Henry,37002.0
+2077,Michigan,Mecosta,36993.0
+2078,Delaware,Kent,36971.0
+2079,Kansas,Cloud,36967.0
+2080,Montana,Granite,36932.0
+2081,Massachusetts,Franklin,36719.0
+2082,Texas,Castro,36585.0
+2083,Illinois,Edwards,36558.0
+2084,Missouri,Daviess,36522.0
+2085,South Dakota,Codington,36515.0
+2086,Minnesota,Kandiyohi,36485.0
+2087,Iowa,Humboldt,36448.0
+2088,Texas,Hudspeth,36278.0
+2089,Georgia,Walker,36092.0
+2090,Virginia,Virginia Beach,36014.0
+2091,Arkansas,Jackson,35933.0
+2092,New Jersey,Essex,35828.0
+2093,Texas,Hunt,35795.0
+2094,Michigan,Hillsdale,35655.0
+2095,Mississippi,Tate,35498.0
+2096,Georgia,Towns,35106.0
+2097,Idaho,Boise,35031.0
+2098,Missouri,Nodaway,35005.0
+2099,South Dakota,Fall River,34961.0
+2100,Kansas,Sherman,34592.0
+2101,Iowa,Wright,34309.0
+2102,Missouri,Wright,33953.0
+2103,Nebraska,Scotts Bluff,33937.0
+2104,Alaska,Haines,33926.0
+2105,Indiana,Vermillion,33764.0
+2106,Ohio,Henry,33729.0
+2107,Nebraska,Stanton,33727.0
+2108,Virginia,Gloucester,33721.0
+2109,Illinois,Winnebago,33708.0
+2110,Michigan,Tuscola,33707.0
+2111,Idaho,Bonneville,33700.0
+2112,Colorado,Rio Grande,33649.0
+2113,California,Lassen,33370.0
+2114,Kentucky,Trigg,33272.0
+2115,Missouri,McDonald,33266.0
+2116,Colorado,Elbert,33178.0
+2117,Nebraska,Gage,32999.0
+2118,Wisconsin,Walworth,32980.0
+2119,Nebraska,Webster,32897.0
+2120,West Virginia,Pocahontas,32877.0
+2121,North Dakota,Walsh,32852.0
+2122,Iowa,Cherokee,32803.0
+2123,Oklahoma,Tillman,32788.0
+2124,Kansas,Doniphan,32668.0
+2125,Indiana,Fayette,32584.0
+2126,Kentucky,Calloway,32469.0
+2127,Maryland,Queen Anne's,32408.0
+2128,Nebraska,Garfield,32392.0
+2129,Washington,Walla Walla,32318.0
+2130,Virginia,Amelia,32287.0
+2131,North Dakota,Richland,32231.0
+2132,Wisconsin,Grant,32036.0
+2133,Montana,Chouteau,32026.0
+2134,Iowa,Shelby,31951.0
+2135,California,Merced,31926.0
+2136,Iowa,Jefferson,31869.0
+2137,Illinois,Mason,31524.0
+2138,Rhode Island,Kent,31461.0
+2139,Wisconsin,Wood,31420.0
+2140,Indiana,Warren,31387.0
+2141,Illinois,Macon,31266.0
+2142,Nebraska,Howard,31226.0
+2143,Minnesota,Mower,31224.0
+2144,Georgia,Houston,31014.0
+2145,Michigan,Delta,30996.0
+2146,Kentucky,Harrison,30987.0
+2147,Minnesota,Carlton,30982.0
+2148,Tennessee,Grundy,30917.0
+2149,New York,Bronx,30793.0
+2150,Illinois,Boone,30442.0
+2151,Kansas,Leavenworth,30400.0
+2152,Indiana,Jackson,30132.0
+2153,Kentucky,Allen,30123.0
+2154,Indiana,Rush,30005.0
+2155,Pennsylvania,Montour,29989.0
+2156,Iowa,Montgomery,29985.0
+2157,Wisconsin,Waupaca,29880.0
+2158,North Dakota,Sargent,29865.0
+2159,Florida,Walton,29718.0
+2160,South Dakota,Turner,29615.0
+2161,North Dakota,Cass,29614.0
+2162,Missouri,Cooper,29530.0
+2163,Minnesota,Wabasha,29349.0
+2164,Ohio,Scioto,29238.0
+2165,Utah,Daggett,29209.0
+2166,Mississippi,Stone,29139.0
+2167,Florida,Holmes,29013.0
+2168,South Carolina,Barnwell,29003.0
+2169,Maryland,St. Mary's,28978.0
+2170,Florida,Okaloosa,28954.0
+2171,Nebraska,Dodge,28846.0
+2172,South Carolina,Union,28515.0
+2173,Illinois,Knox,28507.0
+2174,North Carolina,Alexander,28386.0
+2175,New York,Cortland,28268.0
+2176,Georgia,Heard,28088.0
+2177,Iowa,Mills,28012.0
+2178,Michigan,Cheboygan,27927.0
+2179,Nebraska,Valley,27909.0
+2180,Idaho,Payette,27880.0
+2181,Missouri,Chariton,27715.0
+2182,Michigan,Baraga,27592.0
+2183,California,Del Norte,27564.0
+2184,Idaho,Bear Lake,27554.0
+2185,Indiana,Blackford,27325.0
+2186,New York,Queens,27304.0
+2187,Arkansas,Montgomery,27259.0
+2188,Iowa,Fayette,27155.0
+2189,Alabama,Perry,26984.0
+2190,Maine,Hancock,26903.0
+2191,Virginia,Shenandoah,26795.0
+2192,Minnesota,Chisago,26780.0
+2193,Iowa,Harrison,26696.0
+2194,Iowa,Union,26673.0
+2195,Colorado,Bent,26514.0
+2196,North Carolina,Montgomery,26440.0
+2197,Iowa,Lyon,26388.0
+2198,Virginia,Giles,26336.0
+2199,Minnesota,Pine,26319.0
+2200,Ohio,Clinton,26241.0
+2201,Tennessee,Sumner,26185.0
+2202,Wisconsin,Price,26171.0
+2203,Montana,Deer Lodge,26142.0
+2204,South Dakota,Roberts,26111.0
+2205,Georgia,Lee,26019.0
+2206,Michigan,Barry,26016.0
+2207,Georgia,Macon,25970.0
+2208,Maine,Waldo,25950.0
+2209,Iowa,Dubuque,25947.0
+2210,Montana,Ravalli,25923.0
+2211,Missouri,Barton,25787.0
+2212,Kentucky,Hancock,25700.0
+2213,Maine,Washington,25684.0
+2214,Virginia,Floyd,25476.0
+2215,South Dakota,Brule,25441.0
+2216,Missouri,Oregon,25343.0
+2217,Minnesota,Todd,25265.0
+2218,Missouri,Shannon,25240.0
+2219,Montana,Meagher,25171.0
+2220,Washington,Whitman,24993.0
+2221,Tennessee,Bledsoe,24939.0
+2222,Texas,Hamilton,24646.0
+2223,Iowa,Butler,24586.0
+2224,Georgia,Baldwin,24535.0
+2225,Louisiana,St. James,24488.0
+2226,Michigan,Cass,24312.0
+2227,Mississippi,Lafayette,24301.0
+2228,Florida,Jefferson,24272.0
+2229,Minnesota,Houston,24077.0
+2230,California,Calaveras,24044.0
+2231,Virginia,Norfolk,23804.0
+2232,Montana,Teton,23803.0
+2233,Nebraska,Phelps,23757.0
+2234,Nebraska,Dundy,23683.0
+2235,Indiana,Steuben,23537.0
+2236,California,Sierra,23535.0
+2237,Michigan,Gratiot,23432.0
+2238,Arkansas,Lincoln,23323.0
+2239,Mississippi,Carroll,23305.0
+2240,Missouri,Harrison,23281.0
+2241,Minnesota,Watonwan,23266.0
+2242,Indiana,Fulton,23108.0
+2243,Kansas,Morris,22990.0
+2244,Georgia,Catoosa,22990.0
+2245,Michigan,Midland,22922.0
+2246,Iowa,Davis,22820.0
+2247,South Carolina,Orangeburg,22678.0
+2248,Minnesota,Stevens,22634.0
+2249,Kansas,Nemaha,22532.0
+2250,Nebraska,Cedar,22494.0
+2251,Oklahoma,Greer,22461.0
+2252,Iowa,Lucas,22397.0
+2253,Tennessee,Cheatham,22297.0
+2254,Missouri,Sullivan,22191.0
+2255,Nebraska,Polk,22178.0
+2256,Montana,Prairie,22014.0
+2257,Arkansas,Ashley,22002.0
+2258,Florida,Monroe,21823.0
+2259,Virginia,Scott,21790.0
+2260,Washington,Skamania,21783.0
+2261,Illinois,Iroquois,21774.0
+2262,Montana,Cascade,21651.0
+2263,North Dakota,Eddy,21627.0
+2264,Minnesota,Cottonwood,21587.0
+2265,Indiana,Parke,21584.0
+2266,Missouri,Livingston,21559.0
+2267,Nebraska,Lancaster,21463.0
+2268,Michigan,Menominee,21404.0
+2269,Wisconsin,Waushara,21058.0
+2270,Georgia,Walton,21002.0
+2271,Illinois,Warren,21001.0
+2272,Wisconsin,Douglas,20938.0
+2273,Alaska,Lake and Peninsula,20625.0
+2274,Missouri,Grundy,20607.0
+2275,South Dakota,Lincoln,20460.0
+2276,Georgia,Laurens,20413.0
+2277,Washington,Columbia,20347.0
+2278,Virginia,Bland,20272.0
+2279,Kentucky,Hart,19991.0
+2280,Missouri,Benton,19932.0
+2281,Wisconsin,Door,19874.0
+2282,Iowa,Clay,19847.0
+2283,Kentucky,Owsley,19787.0
+2284,South Dakota,Lake,19753.0
+2285,Illinois,Greene,19636.0
+2286,Iowa,Clarke,19621.0
+2287,Ohio,Hardin,19547.0
+2288,Iowa,Lee,19530.0
+2289,Kentucky,Taylor,19481.0
+2290,Tennessee,Johnson,19472.0
+2291,Michigan,Newaygo,19456.0
+2292,Kansas,Geary,19391.0
+2293,California,Plumas,19343.0
+2294,Iowa,Kossuth,19252.0
+2295,Missouri,Clark,19125.0
+2296,Ohio,Darke,19113.0
+2297,Arkansas,Howard,19108.0
+2298,Iowa,Emmet,19086.0
+2299,Tennessee,Coffee,18997.0
+2300,North Carolina,Wayne,18939.0
+2301,Montana,Park,18856.0
+2302,Utah,Rich,18834.0
+2303,Wisconsin,Kewaunee,18815.0
+2304,New York,Greene,18746.0
+2305,Maryland,Wicomico,18719.0
+2306,Minnesota,Crow Wing,18651.0
+2307,Montana,Fergus,18376.0
+2308,Alaska,Dillingham,18356.0
+2309,Pennsylvania,Philadelphia,18309.0
+2310,Alabama,Cleburne,18261.0
+2311,Kentucky,Simpson,18054.0
+2312,Iowa,Monroe,17897.0
+2313,Michigan,Iron,17869.0
+2314,Missouri,Pemiscot,17859.0
+2315,New York,Niagara,17491.0
+2316,Missouri,Dade,17429.0
+2317,Mississippi,Attala,17362.0
+2318,Tennessee,Morgan,17273.0
+2319,Georgia,Charlton,17189.0
+2320,Illinois,Carroll,17061.0
+2321,Nebraska,Colfax,17007.0
+2322,Iowa,Decatur,16919.0
+2323,South Carolina,Oconee,16832.0
+2324,Washington,San Juan,16748.0
+2325,South Dakota,Yankton,16664.0
+2326,Utah,Piute,16636.0
+2327,South Carolina,Sumter,16622.0
+2328,Nebraska,Thomas,16451.0
+2329,Michigan,Benzie,16409.0
+2330,Michigan,Emmet,16381.0
+2331,Minnesota,Waseca,16289.0
+2332,Minnesota,Rock,16205.0
+2333,Nebraska,Pierce,16193.0
+2334,Alabama,Dale,16148.0
+2335,Virginia,King and Queen,15980.0
+2336,Kentucky,Lincoln,15946.0
+2337,Idaho,Fremont,15933.0
+2338,New Mexico,Lincoln,15898.0
+2339,Texas,Real,15885.0
+2340,Georgia,Dougherty,15841.0
+2341,Tennessee,Hickman,15809.0
+2342,Michigan,St. Clair,15795.0
+2343,Maryland,Somerset,15672.0
+2344,Colorado,Pitkin,15269.0
+2345,Montana,Petroleum,15215.0
+2346,Missouri,Moniteau,15190.0
+2347,Tennessee,Tipton,15113.0
+2348,Oregon,Jefferson,15073.0
+2349,North Carolina,Sampson,15068.0
+2350,North Dakota,Barnes,14981.0
+2351,Maryland,Talbot,14819.0
+2352,Minnesota,Red Lake,14803.0
+2353,Virginia,Arlington,14800.0
+2354,Illinois,Calhoun,14617.0
+2355,Illinois,Fulton,14542.0
+2356,Arkansas,Sharp,14381.0
+2357,Michigan,Keweenaw,14290.0
+2358,Arkansas,Greene,14278.0
+2359,California,Mariposa,14255.0
+2360,Delaware,Sussex,14235.0
+2361,Missouri,Worth,14071.0
+2362,Colorado,Saguache,14002.0
+2363,Indiana,LaGrange,14000.0
+2364,Oregon,Morrow,13976.0
+2365,North Carolina,Cumberland,13945.0
+2366,Missouri,Camden,13932.0
+2367,Nebraska,Richardson,13903.0
+2368,Oklahoma,Jackson,13876.0
+2369,Oklahoma,Cimarron,13833.0
+2370,Oregon,Union,13586.0
+2371,Nebraska,Banner,13500.0
+2372,California,Modoc,13479.0
+2373,Georgia,Long,13408.0
+2374,Mississippi,Chickasaw,13324.0
+2375,Texas,Bandera,13293.0
+2376,Wisconsin,Lincoln,13260.0
+2377,Texas,Dallam,13226.0
+2378,Tennessee,Moore,13180.0
+2379,Missouri,Hickory,13164.0
+2380,Missouri,Saline,13023.0
+2381,New Hampshire,Cheshire,13020.0
+2382,Missouri,Scotland,12904.0
+2383,Minnesota,Redwood,12877.0
+2384,North Dakota,Pembina,12781.0
+2385,Colorado,Hinsdale,12780.0
+2386,Mississippi,Winston,12716.0
+2387,Virginia,Charlotte,12652.0
+2388,Kansas,Republic,12467.0
+2389,Virginia,Isle of Wight,12202.0
+2390,Colorado,Mineral,12148.0
+2391,Kentucky,Rowan,11911.0
+2392,North Dakota,Traill,11809.0
+2393,Wisconsin,La Crosse,11770.0
+2394,Arkansas,Bradley,11672.0
+2395,Iowa,Chickasaw,11655.0
+2396,Mississippi,Scott,11523.0
+2397,Georgia,Oconee,11353.0
+2398,Mississippi,Lauderdale,11327.0
+2399,Illinois,Pulaski,11239.0
+2400,Kentucky,Green,11178.0
+2401,Indiana,Marshall,11134.0
+2402,Minnesota,Lincoln,11127.0
+2403,Alabama,Greene,11035.0
+2404,Kentucky,Garrard,10988.0
+2405,Texas,Rains,10983.0
+2406,Virginia,Newport News,10945.0
+2407,New York,Putnam,10903.0
+2408,Kentucky,Butler,10847.0
+2409,North Carolina,Bertie,10846.0
+2410,Nebraska,York,10726.0
+2411,Iowa,Iowa,10721.0
+2412,Alabama,Geneva,10652.0
+2413,South Dakota,Beadle,10501.0
+2414,New York,Clinton,10473.0
+2415,Kentucky,Fulton,10472.0
+2416,Iowa,Greene,10308.0
+2417,Iowa,Osceola,10217.0
+2418,Georgia,Lamar,10137.0
+2419,Kentucky,Washington,10070.0
+2420,Iowa,Fremont,9985.0
+2421,Washington,Kittitas,9949.0
+2422,Colorado,San Juan,9902.0
+2423,Illinois,Woodford,9777.0
+2424,Kentucky,Trimble,9741.0
+2425,Wisconsin,Kenosha,9648.0
+2426,Iowa,Ringgold,9619.0
+2427,Maryland,Calvert,9612.0
+2428,Virginia,Prince Edward,9595.0
+2429,Missouri,Cedar,9556.0
+2430,Wisconsin,Iron,9529.0
+2431,Kansas,Smith,9374.0
+2432,Florida,Calhoun,9262.0
+2433,West Virginia,Hardy,9250.0
+2434,Mississippi,Leake,9052.0
+2435,North Carolina,Lenoir,9044.0
+2436,Florida,Liberty,9030.0
+2437,Iowa,Warren,8961.0
+2438,Texas,Lamar,8923.0
+2439,Minnesota,Lyon,8883.0
+2440,Oklahoma,Delaware,8855.0
+2441,Georgia,Berrien,8829.0
+2442,Idaho,Madison,8815.0
+2443,New Mexico,Hidalgo,8806.0
+2444,Missouri,Carter,8665.0
+2445,Virginia,Northumberland,8616.0
+2446,Washington,Lincoln,8571.0
+2447,Mississippi,Noxubee,8562.0
+2448,South Dakota,Dewey,8535.0
+2449,Missouri,Morgan,8417.0
+2450,South Carolina,Beaufort,8318.0
+2451,Arkansas,Mississippi,8290.0
+2452,South Dakota,Meade,8268.0
+2453,Mississippi,Lee,8203.0
+2454,Mississippi,Leflore,8151.0
+2455,Nebraska,Morrill,8131.0
+2456,Wisconsin,Buffalo,8042.0
+2457,Wisconsin,Marquette,7986.0
+2458,Missouri,New Madrid,7917.0
+2459,Kentucky,Cumberland,7885.0
+2460,Ohio,Fayette,7764.0
+2461,Missouri,Dallas,7555.0
+2462,Nebraska,Dakota,7522.0
+2463,Michigan,Van Buren,7480.0
+2464,Minnesota,Chippewa,7415.0
+2465,Illinois,Cumberland,7326.0
+2466,Nebraska,Hayes,7244.0
+2467,Alabama,Henry,7140.0
+2468,North Carolina,Hoke,7069.0
+2469,Nevada,Carson City,7016.0
+2470,Nebraska,Butler,6973.0
+2471,Florida,DeSoto,6973.0
+2472,Nebraska,Chase,6966.0
+2473,Maryland,Baltimore City,6966.0
+2474,Alabama,Chambers,6959.0
+2475,Tennessee,Lincoln,6944.0
+2476,Montana,Carter,6936.0
+2477,Kentucky,Nicholas,6734.0
+2478,Kentucky,Elliott,6726.0
+2479,Iowa,O'Brien,6714.0
+2480,Iowa,Taylor,6712.0
+2481,New York,Hamilton,6640.0
+2482,South Dakota,Marshall,6566.0
+2483,Montana,McCone,6566.0
+2484,Minnesota,Kittson,6546.0
+2485,Georgia,Crisp,6516.0
+2486,Mississippi,Montgomery,6514.0
+2487,Nebraska,Thayer,6493.0
+2488,Kentucky,Mason,6490.0
+2489,Kentucky,Monroe,6478.0
+2490,Mississippi,Harrison,6430.0
+2491,Montana,Powell,6430.0
+2492,Colorado,Gilpin,6362.0
+2493,Nebraska,Sheridan,6359.0
+2494,Michigan,Ionia,6358.0
+2495,Georgia,Dodge,6348.0
+2496,North Carolina,Haywood,6302.0
+2497,Wisconsin,Shawano,6208.0
+2498,Minnesota,Freeborn,6195.0
+2499,Illinois,Ford,6020.0
+2500,Michigan,St. Joseph,6010.0
+2501,Nebraska,Furnas,5937.0
+2502,Georgia,Wilkes,5931.0
+2503,Idaho,Gooding,5884.0
+2504,Missouri,Ozark,5876.0
+2505,Nebraska,Fillmore,5858.0
+2506,Georgia,Liberty,5776.0
+2507,Illinois,Pope,5728.0
+2508,Vermont,Orleans,5668.0
+2509,Maine,Penobscot,5615.0
+2510,Illinois,Brown,5598.0
+2511,Tennessee,Roane,5593.0
+2512,Virginia,Grayson,5587.0
+2513,Illinois,De Witt,5570.0
+2514,Wisconsin,Richland,5547.0
+2515,Kansas,Jackson,5477.0
+2516,South Carolina,Williamsburg,5444.0
+2517,South Dakota,Tripp,5441.0
+2518,New York,Richmond,5437.0
+2519,Illinois,Jersey,5386.0
+2520,Nebraska,Boyd,5380.0
+2521,Tennessee,Hardeman,5369.0
+2522,West Virginia,Monroe,5332.0
+2523,Idaho,Teton,5302.0
+2524,Tennessee,Fayette,5298.0
+2525,Kentucky,Todd,5273.0
+2526,Iowa,Franklin,5214.0
+2527,Iowa,Guthrie,5195.0
+2528,Iowa,Mahaska,5161.0
+2529,Idaho,Boundary,5153.0
+2530,North Carolina,Dare,5121.0
+2531,South Dakota,Sully,5043.0
+2532,Wisconsin,Sawyer,5028.0
+2533,Kansas,Washington,5006.0
+2534,Michigan,Dickinson,4929.0
+2535,New York,Franklin,4868.0
+2536,Washington,Benton,4842.0
+2537,New Mexico,Guadalupe,4837.0
+2538,Arkansas,Hempstead,4778.0
+2539,Mississippi,Pontotoc,4764.0
+2540,New York,Lewis,4727.0
+2541,Iowa,Winnebago,4708.0
+2542,Arkansas,Randolph,4701.0
+2543,Kentucky,Marshall,4610.0
+2544,Montana,Daniels,4597.0
+2545,North Dakota,Ransom,4582.0
+2546,Florida,Union,4572.0
+2547,Georgia,Franklin,4572.0
+2548,Mississippi,George,4558.0
+2549,Indiana,Jefferson,4442.0
+2550,Illinois,Massac,4425.0
+2551,Maine,Lincoln,4382.0
+2552,Arkansas,Clark,4377.0
+2553,North Carolina,Clay,4361.0
+2554,Alaska,Kodiak Island,4325.0
+2555,New Mexico,Catron,4315.0
+2556,North Carolina,Northampton,4279.0
+2557,Kansas,Marshall,4258.0
+2558,North Carolina,Avery,4247.0
+2559,Virginia,Smyth,4228.0
+2560,South Dakota,Stanley,4218.0
+2561,Nebraska,Platte,4172.0
+2562,Mississippi,Claiborne,4172.0
+2563,North Dakota,Cavalier,4164.0
+2564,Kansas,Brown,4141.0
+2565,Georgia,Gordon,4089.0
+2566,Montana,Garfield,4086.0
+2567,Nebraska,Frontier,4071.0
+2568,Wisconsin,Forest,4023.0
+2569,Montana,Judith Basin,4009.0
+2570,Georgia,Harris,3913.0
+2571,Washington,Asotin,3897.0
+2572,Nebraska,Keith,3890.0
+2573,Vermont,Essex,3888.0
+2574,North Dakota,Kidder,3854.0
+2575,Texas,Swisher,3753.0
+2576,Florida,Franklin,3710.0
+2577,North Carolina,Granville,3705.0
+2578,Iowa,Boone,3666.0
+2579,Arkansas,Fulton,3658.0
+2580,Mississippi,Neshoba,3636.0
+2581,Minnesota,Pope,3632.0
+2582,North Carolina,Duplin,3632.0
+2583,Georgia,Atkinson,3627.0
+2584,New York,Yates,3620.0
+2585,Kentucky,Spencer,3561.0
+2586,Nebraska,Deuel,3520.0
+2587,Nebraska,Harlan,3446.0
+2588,Georgia,Grady,3433.0
+2589,Alabama,Hale,3348.0
+2590,Texas,Floyd,3348.0
+2591,Virginia,Highland,3324.0
+2592,Wyoming,Goshen,3318.0
+2593,Mississippi,Newton,3309.0
+2594,Georgia,Chattooga,3292.0
+2595,Ohio,Madison,3237.0
+2596,Idaho,Minidoka,3193.0
+2597,Massachusetts,Dukes,3173.0
+2598,Texas,Donley,3122.0
+2599,Virginia,Orange,3079.0
+2600,Nebraska,Antelope,3079.0
+2601,Kansas,Jewell,3037.0
+2602,Texas,Presidio,2977.0
+2603,Arkansas,Marion,2934.0
+2604,Alaska,Bristol Bay,2915.0
+2605,Indiana,Ohio,2914.0
+2606,Missouri,St. Clair,2885.0
+2607,Colorado,Otero,2854.0
+2608,Minnesota,Martin,2791.0
+2609,Florida,Madison,2769.0
+2610,Minnesota,Brown,2748.0
+2611,Virginia,Bedford County,2739.0
+2612,Michigan,Luce,2726.0
+2613,Texas,Mills,2722.0
+2614,Wisconsin,Vilas,2707.0
+2615,Tennessee,Obion,2695.0
+2616,Kansas,Clay,2683.0
+2617,Kentucky,Carroll,2642.0
+2618,Kansas,Mitchell,2616.0
+2619,Georgia,Haralson,2595.0
+2620,Vermont,Grand Isle,2547.0
+2621,Oklahoma,Adair,2518.0
+2622,Louisiana,West Carroll,2460.0
+2623,Mississippi,Grenada,2437.0
+2624,South Carolina,Jasper,2430.0
+2625,Minnesota,Beltrami,2429.0
+2626,Minnesota,Lac qui Parle,2426.0
+2627,Maine,Aroostook,2390.0
+2628,Minnesota,Anoka,2358.0
+2629,Iowa,Floyd,2351.0
+2630,Georgia,Early,2345.0
+2631,Florida,Nassau,2337.0
+2632,Oregon,Grant,2332.0
+2633,Idaho,Lewis,2307.0
+2634,Vermont,Bennington,2260.0
+2635,Montana,Wheatland,2148.0
+2636,Georgia,Bacon,2143.0
+2637,Wisconsin,Vernon,2136.0
+2638,South Dakota,Haakon,2105.0
+2639,Idaho,Jefferson,2083.0
+2640,Colorado,Sedgwick,2069.0
+2641,Alabama,Lauderdale,2061.0
+2642,Georgia,Mitchell,2056.0
+2643,Idaho,Elmore,2041.0
+2644,South Dakota,Hughes,2031.0
+2645,Georgia,Calhoun,1972.0
+2646,Texas,Kinney,1961.0
+2647,Wisconsin,Lafayette,1951.0
+2648,Nebraska,Knox,1920.0
+2649,Nebraska,Boone,1911.0
+2650,Georgia,Webster,1903.0
+2651,Georgia,Seminole,1887.0
+2652,Kentucky,McCreary,1877.0
+2653,Georgia,McIntosh,1864.0
+2654,Maine,Franklin,1861.0
+2655,Texas,Deaf Smith,1812.0
+2656,South Dakota,Perkins,1802.0
+2657,West Virginia,Summers,1761.0
+2658,Florida,Gulf,1746.0
+2659,Missouri,Dent,1745.0
+2660,Florida,Wakulla,1733.0
+2661,Arkansas,Searcy,1723.0
+2662,Minnesota,Clearwater,1701.0
+2663,South Dakota,Jerauld,1688.0
+2664,Florida,Dixie,1673.0
+2665,Kansas,Pottawatomie,1624.0
+2666,Texas,Briscoe,1608.0
+2667,Texas,Armstrong,1595.0
+2668,Arkansas,Stone,1592.0
+2669,South Dakota,McCook,1585.0
+2670,Texas,Bailey,1578.0
+2671,Kentucky,Lewis,1553.0
+2672,Nebraska,Grant,1547.0
+2673,South Dakota,Bon Homme,1541.0
+2674,Virginia,Hampton,1533.0
+2675,Maine,Somerset,1468.0
+2676,South Dakota,Douglas,1465.0
+2677,New Mexico,Mora,1462.0
+2678,Nebraska,Cherry,1459.0
+2679,Arkansas,Woodruff,1456.0
+2680,Texas,Parmer,1421.0
+2681,Nebraska,Brown,1415.0
+2682,Missouri,Ripley,1386.0
+2683,Illinois,Putnam,1364.0
+2684,Nebraska,Adams,1315.0
+2685,Tennessee,Van Buren,1295.0
+2686,Louisiana,East Carroll,1286.0
+2687,Nebraska,Nemaha,1274.0
+2688,Kansas,Lincoln,1254.0
+2689,North Dakota,Hettinger,1239.0
+2690,New Mexico,Los Alamos,1226.0
+2691,Indiana,Starke,1219.0
+2692,Virginia,Portsmouth,1210.0
+2693,Pennsylvania,Mifflin,1185.0
+2694,Illinois,Piatt,1167.0
+2695,Virginia,Westmoreland,1162.0
+2696,Arkansas,Madison,1161.0
+2697,Minnesota,Carver,1119.0
+2698,Georgia,Tattnall,1093.0
+2699,North Carolina,Bladen,1076.0
+2700,North Dakota,Foster,1069.0
+2701,Georgia,Montgomery,1023.0
+2702,Alabama,Clay,1003.0
+2703,Nebraska,Otoe,984.0
+2704,Colorado,Crowley,980.0
+2705,Mississippi,Tallahatchie,977.0
+2706,Iowa,Jackson,945.0
+2707,South Carolina,Saluda,910.0
+2708,Michigan,Ontonagon,882.0
+2709,Tennessee,Carroll,876.0
+2710,Idaho,Butte,871.0
+2711,Alabama,Coffee,866.0
+2712,South Carolina,Clarendon,811.0
+2713,South Dakota,Hutchinson,802.0
+2714,Idaho,Washington,802.0
+2715,Missouri,Macon,797.0
+2716,Arkansas,Boone,783.0
+2717,North Carolina,Beaufort,779.0
+2718,Missouri,Dunklin,760.0
+2719,South Dakota,Clay,742.0
+2720,Nebraska,Hooker,736.0
+2721,Indiana,Whitley,733.0
+2722,North Dakota,Stutsman,727.0
+2723,New Jersey,Salem,726.0
+2724,Idaho,Camas,718.0
+2725,Georgia,Worth,706.0
+2726,Virginia,Rappahannock,701.0
+2727,Tennessee,Hancock,692.0
+2728,Arkansas,Chicot,665.0
+2729,Nebraska,Garden,640.0
+2730,Missouri,Laclede,631.0
+2731,Arkansas,St. Francis,619.0
+2732,Alaska,Sitka,604.0
+2733,Mississippi,Sharkey,594.0
+2734,Kentucky,Russell,585.0
+2735,Georgia,Dade,582.0
+2736,Iowa,Cedar,581.0
+2737,Virginia,Accomack,571.0
+2738,Iowa,Palo Alto,529.0
+2739,Georgia,Banks,517.0
+2740,Iowa,Tama,509.0
+2741,Tennessee,Warren,497.0
+2742,South Carolina,Newberry,492.0
+2743,Indiana,Hancock,481.0
+2744,Kentucky,McCracken,477.0
+2745,South Dakota,Charles Mix,472.0
+2746,Arkansas,Cleveland,461.0
+2747,Nebraska,Franklin,454.0
+2748,Minnesota,Norman,442.0
+2749,Louisiana,Madison,441.0
+2750,Virginia,Lancaster,425.0
+2751,Tennessee,Meigs,422.0
+2752,Kentucky,Shelby,419.0
+2753,Missouri,Atchison,406.0
+2754,Wisconsin,Washburn,399.0
+2755,Idaho,Clark,394.0
+2756,Georgia,Bulloch,384.0
+2757,North Dakota,Pierce,369.0
+2758,Kentucky,Kenton,356.0
+2759,Texas,Jeff Davis,344.0
+2760,Maine,Knox,336.0
+2761,Tennessee,Jackson,330.0
+2762,North Dakota,Nelson,320.0
+2763,Idaho,Adams,315.0
+2764,Tennessee,Henderson,315.0
+2765,Kansas,Ottawa,314.0
+2766,Michigan,Branch,290.0
+2767,Indiana,Benton,286.0
+2768,Mississippi,Webster,277.0
+2769,Pennsylvania,Juniata,246.0
+2770,Colorado,Custer,243.0
+2771,Minnesota,Benton,242.0
+2772,Mississippi,Prentiss,228.0
+2773,Tennessee,Pickett,226.0
+2774,Minnesota,Roseau,224.0
+2775,North Carolina,Carteret,224.0
+2776,Illinois,Edgar,215.0
+2777,Nebraska,Perkins,211.0
+2778,Mississippi,Coahoma,196.0
+2779,Oregon,Wheeler,192.0
+2780,Georgia,Emanuel,176.0
+2781,North Carolina,Columbus,173.0
+2782,New Mexico,Quay,172.0
+2783,Kentucky,Lyon,171.0
+2784,Georgia,Dawson,171.0
+2785,Georgia,Jenkins,166.0
+2786,Georgia,Camden,153.0
+2787,Indiana,Tipton,152.0
+2788,North Carolina,Robeson,150.0
+2789,South Carolina,Darlington,149.0
+2790,Georgia,White,147.0
+2791,Mississippi,Benton,140.0
+2792,Georgia,Burke,139.0
+2793,Arkansas,Arkansas,126.0
+2794,Georgia,Butts,124.0
+2795,Kentucky,Larue,124.0
+2796,Tennessee,Lewis,124.0
+2797,Wisconsin,Ashland,124.0
+2798,Michigan,Lake,104.0
+2799,Virginia,Middlesex,102.0
+2800,South Carolina,McCormick,99.0
+2801,Nebraska,Sioux,97.0
+2802,Texas,Hall,90.0
+2803,Oregon,Tillamook,87.0
+2804,North Dakota,Griggs,85.0
+2805,Indiana,Union,80.0
+2806,Illinois,Moultrie,69.0
+2807,Kentucky,Marion,68.0
+2808,North Carolina,Scotland,45.0
+2809,Oregon,Sherman,44.0
+2810,Oregon,Harney,44.0
+2811,Oregon,Hood River,44.0
+2812,Oregon,Wallowa,44.0
+2813,North Carolina,Halifax,42.0
+2814,Georgia,Coffee,42.0
+2815,Virginia,New Kent,40.0
+2816,South Dakota,McPherson,33.0
+2817,North Carolina,Pamlico,31.0
+2818,Oregon,Gilliam,31.0
+2819,Georgia,Dooly,27.0
+2820,Alabama,Pike,24.0
+2821,Ohio,Defiance,23.0
+2822,South Dakota,Aurora,21.0
+2823,Mississippi,Calhoun,17.0
+2824,North Carolina,Swain,16.0
+2825,Arkansas,Monroe,14.0
+2826,North Carolina,Person,10.0
+2827,Mississippi,Tishomingo,10.0
+2828,Virginia,Warren,9.0
+2829,Nebraska,Kearney,5.0
+2830,Mississippi,Sunflower,0.0
+2831,Nebraska,Arthur,0.0
+2832,Arkansas,Lee,0.0
+2833,Tennessee,Lake,0.0
+2834,Tennessee,Lauderdale,0.0
+2835,Nebraska,Blaine,0.0
+2836,North Dakota,Towner,0.0
+2837,Mississippi,Union,0.0
+2838,Iowa,Audubon,0.0
+2839,Missouri,Adair,0.0
+2840,Nebraska,Box Butte,0.0
+2841,Iowa,Howard,0.0
+2842,Iowa,Crawford,0.0
+2843,North Carolina,Yadkin,0.0
+2844,Alaska,Aleutians East,0.0
+2845,North Carolina,Warren,0.0
+2846,North Carolina,Tyrrell,0.0
+2847,Tennessee,Haywood,0.0
+2848,Alabama,Bullock,0.0
+2849,Alabama,Butler,0.0
+2850,North Dakota,LaMoure,0.0
+2851,Wisconsin,Florence,0.0
+2852,Alabama,Wilcox,0.0
+2853,Arkansas,Newton,0.0
+2854,Tennessee,Houston,0.0
+2855,Iowa,Wayne,0.0
+2856,North Dakota,Benson,0.0
+2857,North Carolina,Washington,0.0
+2858,Alabama,Coosa,0.0
+2859,Illinois,Bond,0.0
+2860,Tennessee,Chester,0.0
+2861,Mississippi,Tunica,0.0
+2862,Tennessee,Gibson,0.0
+2863,Washington,Wahkiakum,0.0
+2864,Alabama,Crenshaw,0.0
+2865,Mississippi,Alcorn,0.0
+2866,Kentucky,Bracken,0.0
+2867,Arkansas,Phillips,0.0
+2868,South Dakota,Todd,0.0
+2869,Tennessee,Trousdale,0.0
+2870,Iowa,Calhoun,0.0
+2871,North Dakota,Logan,0.0
+2872,Alaska,Kusilvak,0.0
+2873,Kentucky,Carlisle,0.0
+2874,North Dakota,Grant,0.0
+2875,Tennessee,DeKalb,0.0
+2876,North Dakota,McIntosh,0.0
+2877,Montana,Treasure,0.0
+2878,South Dakota,Ziebach,0.0
+2879,North Dakota,Dickey,0.0
+2880,Maine,Sagadahoc,0.0
+2881,Kentucky,Edmonson,0.0
+2882,Wisconsin,Pepin,0.0
+2883,Alaska,Skagway,0.0
+2884,Wisconsin,Menominee,0.0
+2885,Iowa,Monona,0.0
+2886,Wisconsin,Oneida,0.0
+2887,Alabama,Marengo,0.0
+2888,Alaska,Wrangell,0.0
+2889,Minnesota,Cass,0.0
+2890,Alaska,Yakutat,0.0
+2891,Tennessee,Crockett,0.0
+2892,Arkansas,Clay,0.0
+2893,Illinois,Cass,0.0
+2894,South Dakota,Union,0.0
+2895,North Dakota,Sheridan,0.0
+2896,North Dakota,Steele,0.0
+2897,Iowa,Buena Vista,0.0
+2898,Iowa,Grundy,0.0
+2899,North Dakota,Emmons,0.0
+2900,North Dakota,Sioux,0.0
+2901,Minnesota,Cook,0.0
+2902,Kentucky,Grant,0.0
+2903,Arkansas,Drew,0.0
+2904,Missouri,Mississippi,0.0
+2905,Wisconsin,Bayfield,0.0
+2906,Tennessee,Stewart,0.0
+2907,Wisconsin,Juneau,0.0
+2908,Tennessee,Macon,0.0
+2909,Iowa,Ida,0.0
+2910,Arkansas,Desha,0.0
+2911,Mississippi,Bolivar,0.0
+2912,Wisconsin,Adams,0.0
+2913,Arkansas,Dallas,0.0
+2914,Alaska,Hoonah-Angoon,0.0
+2915,Arkansas,Cross,0.0
+2916,Tennessee,Dyer,0.0
+2917,Oklahoma,Harmon,0.0
+2918,Montana,Mineral,0.0
+2919,California,Alpine,0.0
+2920,Nebraska,Burt,0.0
+2921,Georgia,Bryan,0.0
+2922,Missouri,Linn,0.0
+2923,Illinois,Mercer,0.0
+2924,Georgia,Ben Hill,0.0
+2925,South Carolina,Hampton,0.0
+2926,Georgia,Turner,0.0
+2927,Georgia,Bleckley,0.0
+2928,Missouri,Ralls,0.0
+2929,Georgia,Brooks,0.0
+2930,Georgia,Candler,0.0
+2931,South Carolina,Allendale,0.0
+2932,Georgia,Treutlen,0.0
+2933,Georgia,Chattahoochee,0.0
+2934,Georgia,Toombs,0.0
+2935,Georgia,Tift,0.0
+2936,Georgia,Clay,0.0
+2937,Georgia,Clinch,0.0
+2938,Georgia,Colquitt,0.0
+2939,South Carolina,Lee,0.0
+2940,North Carolina,Camden,0.0
+2941,Georgia,Baker,0.0
+2942,Georgia,Upson,0.0
+2943,Georgia,Appling,0.0
+2944,Nebraska,Seward,0.0
+2945,South Carolina,Bamberg,0.0
+2946,Nebraska,Sherman,0.0
+2947,South Carolina,Calhoun,0.0
+2948,Georgia,Ware,0.0
+2949,South Carolina,Chester,0.0
+2950,South Dakota,Jackson,0.0
+2951,North Carolina,Chowan,0.0
+2952,Nebraska,Thurston,0.0
+2953,South Carolina,Dillon,0.0
+2954,Nebraska,Wayne,0.0
+2955,Illinois,Morgan,0.0
+2956,Minnesota,Pennington,0.0
+2957,Texas,Delta,0.0
+2958,Nebraska,Wheeler,0.0
+2959,Missouri,Lafayette,0.0
+2960,South Dakota,Hyde,0.0
+2961,Georgia,Terrell,0.0
+2962,Georgia,Telfair,0.0
+2963,Minnesota,Traverse,0.0
+2964,Georgia,Lanier,0.0
+2965,South Dakota,Day,0.0
+2966,Georgia,Randolph,0.0
+2967,Georgia,Lincoln,0.0
+2968,South Dakota,Deuel,0.0
+2969,South Dakota,Edmunds,0.0
+2970,South Dakota,Faulk,0.0
+2971,Georgia,Meriwether,0.0
+2972,Georgia,Miller,0.0
+2973,Georgia,Morgan,0.0
+2974,Kentucky,Ballard,0.0
+2975,Kentucky,Bath,0.0
+2976,South Dakota,Hamlin,0.0
+2977,Georgia,Peach,0.0
+2978,Georgia,Pierce,0.0
+2979,South Dakota,Hand,0.0
+2980,Georgia,Pulaski,0.0
+2981,Georgia,Putnam,0.0
+2982,South Dakota,Corson,0.0
+2983,South Dakota,Clark,0.0
+2984,Georgia,Echols,0.0
+2985,Georgia,Johnson,0.0
+2986,Kentucky,Robertson,0.0
+2987,Georgia,Evans,0.0
+2988,Georgia,Fannin,0.0
+2989,Georgia,Taliaferro,0.0
+2990,Kentucky,Owen,0.0
+2991,Georgia,Stewart,0.0
+2992,South Dakota,Bennett,0.0
+2993,Georgia,Screven,0.0
+2994,Missouri,Schuyler,0.0
+2995,Georgia,Schley,0.0
+2996,Mississippi,Issaquena,0.0
+2997,South Dakota,Buffalo,0.0
+2998,Mississippi,Humphreys,0.0
+2999,South Dakota,Campbell,0.0
+3000,Georgia,Irwin,0.0
+3001,Minnesota,Sibley,0.0
+3002,Georgia,Jeff Davis,0.0
+3003,Florida,Hamilton,0.0
+3004,Florida,Gilchrist,0.0
+3005,Minnesota,Faribault,0.0
+3006,South Dakota,Moody,0.0
+3007,North Carolina,Perquimans,0.0
+3008,Idaho,Lincoln,0.0
+3009,Virginia,Mathews,0.0
+3010,Virginia,Madison,0.0
+3011,Virginia,Lunenburg,0.0
+3012,Minnesota,Isanti,0.0
+3013,Minnesota,Jackson,0.0
+3014,North Carolina,Pasquotank,0.0
+3015,Kentucky,Hickman,0.0
+3016,Nebraska,Saline,0.0
+3017,Idaho,Jerome,0.0
+3018,Georgia,Quitman,0.0
+3019,Minnesota,Koochiching,0.0
+3020,New Mexico,De Baca,0.0
+3021,Virginia,Essex,0.0
+3022,Missouri,Gentry,0.0
+3023,Virginia,Cumberland,0.0
+3024,Nebraska,Gosper,0.0
+3025,Virginia,Northampton,0.0
+3026,South Dakota,Oglala Lakota,0.0
+3027,Virginia,Page,0.0
+3028,Virginia,Patrick,0.0
+3029,Washington,Garfield,0.0
+3030,Nebraska,Custer,0.0
+3031,Washington,Douglas,0.0
+3032,Arkansas,Prairie,0.0
+3033,North Carolina,Stokes,0.0
+3034,South Dakota,Spink,0.0
+3035,Idaho,Power,0.0
+3036,South Dakota,Sanborn,0.0
+3037,South Dakota,Potter,0.0
+3038,Washington,Adams,0.0
+3039,Nebraska,Dixon,0.0
+3040,Minnesota,Grant,0.0
+3041,Virginia,Surry,0.0
+3042,Missouri,DeKalb,0.0
+3043,Virginia,Richmond County,0.0
+3044,North Carolina,Polk,0.0
+3045,Missouri,Maries,0.0
+3046,Nebraska,Greeley,0.0
+3047,Nebraska,Hamilton,0.0
+3048,Minnesota,Lake of the Woods,0.0
+3049,Indiana,Clinton,0.0
+3050,Mississippi,Marshall,0.0
+3051,Michigan,Gogebic,0.0
+3052,Nebraska,Nuckolls,0.0
+3053,Indiana,Brown,0.0
+3054,Michigan,Alger,0.0
+3055,Massachusetts,Nantucket,0.0
+3056,South Dakota,Jones,0.0
+3057,Illinois,Stephenson,0.0
+3058,Illinois,Stark,0.0
+3059,Illinois,Scott,0.0
+3060,Georgia,Wilcox,0.0
+3061,Rhode Island,Bristol,0.0
+3062,Florida,Baker,0.0
+3063,South Carolina,Abbeville,0.0
+3064,Minnesota,Nobles,0.0
+3065,Nebraska,Rock,0.0
+3066,Georgia,Wheeler,0.0
+3067,North Carolina,Gates,0.0
+3068,South Dakota,Kingsbury,0.0
+3069,Missouri,Putnam,0.0
+3070,Nebraska,McPherson,0.0
+3071,North Carolina,Martin,0.0
+3072,Virginia,Bath,0.0
+3073,North Carolina,Jones,0.0
+3074,Virginia,Amherst,0.0
+3075,North Carolina,Hyde,0.0
+3076,South Dakota,Miner,0.0
+3077,North Carolina,Hertford,0.0
+3078,South Dakota,Mellette,0.0
+3079,Indiana,Fountain,0.0
+3080,Minnesota,Mahnomen,0.0
+3081,Nebraska,Johnson,0.0
+3082,Nebraska,Keya Paha,0.0
+3083,North Carolina,Greene,0.0
+3084,South Dakota,Lyman,0.0
+3085,Minnesota,Wadena,0.0
+3086,Nebraska,Logan,0.0
+3087,Nebraska,Loup,0.0
+3088,Georgia,Wayne,0.0
